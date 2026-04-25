@@ -1,0 +1,66 @@
+🎤 Pitch / Prosodic Identity (Glottal Source Characteristics)
+----------------------------------------------------------------
+f0_mean → Captures the singer’s habitual pitch range (natural vocal register signature).
+f0_std → Measures expressive pitch variation (degree of gamaka/vibrato usage).
+f0_min → Indicates lowest phonation limit, reflecting vocal weight and tessitura.
+f0_max → Indicates upper singing capability and stylistic pitch excursions.
+
+🎼 MFCCs — Vocal Timbre Envelope (Primary Singer Identity Marker)
+----------------------------------------------------------------
+MFCCs approximate the spectral envelope shaped by the vocal tract, which defines timbre.
+
+For each coefficient:
+
+mfcc1_mean → Overall spectral slope (brightness vs warmth of voice).
+mfcc1_std → Stability of vocal tone over time.
+mfcc2_mean → Formant structure linked to vowel coloration unique to singer.
+mfcc2_std → Variability in articulation style.
+mfcc3_mean → Captures nasality vs openness in resonance.
+mfcc3_std → Reflects stylistic modulation of resonance.
+mfcc4_mean → Encodes singer-specific vocal tract shaping.
+mfcc4_std → Measures consistency of that shaping.
+mfcc5_mean → Represents mid-frequency coloration (playback tone color).
+mfcc5_std → Captures expressive tonal shifts.
+mfcc6_mean → Sensitive to throat configuration and support.
+mfcc6_std → Variation in projection dynamics.
+mfcc7_mean → Encodes fine timbral individuality.
+mfcc7_std → Reflects stylistic articulation changes.
+mfcc8_mean → Tracks subtle harmonic shaping unique to singer.
+mfcc8_std → Measures control over tonal texture.
+mfcc9_mean → Captures micro-spectral personality cues.
+mfcc9_std → Expressive variation in those cues.
+mfcc10_mean → Higher-order timbral fingerprint component.
+mfcc10_std → Stability of that fingerprint.
+mfcc11_mean → Encodes nuanced vocal color differences.
+mfcc11_std → Reflects modulation richness.
+mfcc12_mean → Captures high-frequency resonance behavior.
+mfcc12_std → Measures brilliance variation.
+mfcc13_mean → Represents fine harmonic detail tied to identity.
+mfcc13_std → Stability of these micro-characteristics.
+
+🔊 Spectral Shape Features (Energy Distribution Signature)
+----------------------------------------------------------------
+centroid_mean → Perceived “brightness” of voice (dark Ilayaraja vs brighter SPB).
+bandwidth_mean → Spread of harmonic energy, linked to vocal fullness vs sharpness.
+rolloff_mean → Frequency below which most energy lies (defines tonal weight).
+flatness_mean → Measures harmonic richness vs breathiness/noisiness.
+
+🔉 Loudness / Phonation Control Features
+----------------------------------------------------------------
+rms_mean → Average vocal power reflecting projection style.
+rms_std → Dynamic control and expressive loudness variation.
+
+⚡ Temporal Excitation Feature
+----------------------------------------------------------------
+zcr_mean → Measures excitation sharpness, distinguishing smooth vs edgy phonation.
+
+🎶 Harmonic Quality Feature
+----------------------------------------------------------------
+hnr (Harmonic-to-Noise Ratio) → Quantifies clarity of phonation vs breathiness, a strong cue of singer tone quality.
+
+NOTES:
+---------
+“Singer identity is governed by both the excitation source (pitch behavior) and the vocal tract filter (spectral envelope).
+The selected features jointly model pitch dynamics, resonance structure, spectral energy distribution, and harmonic quality — which are the same dimensions used in speaker recognition and music information retrieval to characterize voice individuality.”
+
+Because identity is not a single frame — it is a distributional behavior over time, so we compare statistical signatures of voices rather than instantaneous values.

@@ -1,0 +1,19 @@
+
+========== SVC PERFORMANCE REPORT ==========
+
+Lyrics Preservation:
+WER : 0.965
+CER : 0.335
+
+Singer Identity Transfer:
+Similarity → Target : 0.913
+Leakage → Source    : 0.835
+
+Raga Preservation:
+F0 Correlation : 0.432
+
+Timbre Transformation:
+Distance from Target : 73.331
+Distance to Source   : 183.811
+
+===========================================
