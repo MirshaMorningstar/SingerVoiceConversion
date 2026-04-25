@@ -1,0 +1,158 @@
+RAGA PREDICTION USING ASSOCIATION RULE MINING
+1. Dataset Description
+
+The dataset used in this project is a CSV file containing raga names and their corresponding swara features. Each row represents a raga, and the columns represent the presence or absence of specific swaras.
+
+Total records: 934
+Total features: 17
+Columns include:
+Raga (target label)
+Swara features (F1 to F16)
+S (constant swara)
+
+Each feature is encoded in binary format:
+
+1 → Swara present
+0 → Swara absent
+2. Data Preprocessing
+
+The dataset is preprocessed to make it suitable for association rule mining.
+
+Steps performed:
+
+Removed unnecessary columns: Raga, S, and F1
+Mapped feature columns to musical swaras:
+F2 → R1, F3 → R2, F4 → R3
+F5 → G1, F6 → G2, F7 → G3
+F8 → M1, F9 → M2
+F10 → P
+F11 → D1, F12 → D2, F13 → D3
+F14 → N1, F15 → N2, F16 → N3
+Converted values into boolean format (True/False)
+
+After preprocessing:
+
+Total features: 15 swaras
+3. Association Rule Mining
+
+Association rule mining is applied to discover relationships between swaras.
+
+Algorithm Used:
+FP-Growth Algorithm
+Process:
+Generate frequent itemsets using minimum support
+Generate association rules using confidence threshold
+Parameters:
+Minimum Support = 0.3
+Minimum Confidence = 0.6
+Output:
+Frequent itemsets (swara combinations)
+Rules such as:
+N2 → M1
+R2 → P
+4. Rule Filtering
+
+To improve performance and accuracy:
+
+Removed invalid or null rules
+Sorted rules based on confidence
+Selected top 50 rules
+
+This ensures:
+
+Faster computation
+More reliable predictions
+5. Swara Recommendation
+
+This module predicts the next possible swara based on input swaras.
+
+Process:
+Take input swaras from the user
+Compare with rule antecedents
+If matched, suggest consequents
+Rank recommendations based on confidence
+Example:
+
+Input:
+
+R2, M1, P, N2
+
+Output:
+
+Recommend M1 (confidence = 0.71)
+Recommend P (confidence = 0.82)
+6. Raga Prediction
+
+This module predicts the most suitable raga based on input swaras.
+
+Method Used:
+Jaccard Similarity
+Formula:
+
+Similarity = (Intersection of swaras) / (Union of swaras)
+
+Process:
+Compare input swaras with each raga in dataset
+Calculate similarity score
+Apply penalty for unmatched swaras
+Rank ragas based on score
+Output:
+
+Top matching ragas with scores
+
+7. Final Prediction
+
+The system combines:
+
+Association Rule Mining (for next swara prediction)
+Similarity Matching (for raga prediction)
+Example Output:
+
+Input:
+
+R2, M1, P, N2
+
+Output:
+
+Next Swara Prediction:
+- Recommend M1 (confidence = 0.71)
+- Recommend P (confidence = 0.82)
+
+Predicted Ragas:
+- Bhuvanagāndhāri (Score: 1.00)
+- Devakriya (Score: 1.00)
+- Dharmaprakāshini (Score: 1.00)
+
+Final Predicted Raga:
+Bhuvanagāndhāri
+8. Performance Analysis
+
+The model performance is evaluated using:
+
+Support (frequency of itemsets)
+Confidence (strength of rules)
+Lift (usefulness of rules)
+
+Observations:
+
+High-confidence rules improve prediction accuracy
+Frequently occurring swaras like P and M1 dominate predictions
+Increasing support reduces number of itemsets
+9. Advantages
+Efficient pattern discovery using FP-Growth
+Fast prediction using optimized rules
+Works well with binary encoded data
+Provides both swara and raga prediction
+10. Limitations
+Multiple ragas may have similar swaras
+Accuracy depends on dataset quality
+Association rules do not capture sequence order
+11. Conclusion
+
+This project demonstrates the use of association rule mining for musical pattern recognition. The system successfully predicts next swaras and identifies probable ragas based on input swaras. The combination of FP-Growth and similarity-based matching provides an efficient and scalable solution for raga prediction.
+
+12. Future Work
+Use deep learning models for sequence prediction
+Incorporate swara order (time-series analysis)
+Improve accuracy using hybrid models
+Build mobile application for real-time prediction

@@ -1,0 +1,1220 @@
+Song_ID,Parent_Raga,Song_Name,Movie_Name,Melakarta_No,Arohanam,Avarohanam,Raga_Confidence
+615,(Mecha) Bowli,Senthaalam Poovil,Mullum Malarum,,,,Medium
+4,Aarabhi,Sandhakavigal Paadidum Manathinil,Metti,,,,Medium
+1,Aarabhi,Aasai Kiliye,Thambikku Entha Ooru,,,,Medium
+2,Aarabhi,Madhurai Vaazhum,Pudhupatti Ponnuthayee,,,,Medium
+3,Aarabhi,Mannavane Mannavane,Thandhuvitten Ennai,,,,Medium
+21,Abheri,Velli Kolusu Mani,Pongi Varum Kaaveri,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+19,Abheri,Un Manasula Paatu Thaan,Paandi Naatu Thangam,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+17,Abheri,Poove Poochoodava,Poove Poochoodava,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+16,Abheri,Poonguyil Rendum Onnoda Onna,Veetula Visheshanga,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+15,Abheri,Poongaaviyam Pesum Oviyam,Karpoora Mullai,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+14,Abheri,Padhmanabha,Manjeera Dhwani (Thillana) (Malayalam),,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+13,Abheri,Muthamizhae Muthamizhae,Raman Abdulla,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+20,Abheri,Varna Vrindaavanum,Kaliyoonjal (Malayalam),,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+11,Abheri,Kuyile Kavikuyile,Kavikuyil,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+12,Abheri,Megam Karukkudhu,Anandha Ragam,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+5,Abheri,Chinnanjiru Vayathil,Meendum Kokila (Uses Ni3),,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+6,Abheri,En Paatu En Paatu,Poomani,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+7,Abheri,Ennai Thottu Alli Konda,Unna Ninaichen Paatu Padichen,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+18,Abheri,Sindhu Nadhi Karai Oram,Nalladhoru Kudumbam,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+8,Abheri,Guruvaayoorappa,Pudhu Pudhu Arthangal (Magical Prelude & Interludes),,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+9,Abheri,Kaalidasan Kannadasan,Soorakottai Singakkutti,,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+10,Abheri,Kaiyetha,Vinodhayathra (Malayalam),,S G2 M1 P N2 S,S N2 D2 P M1 G2 S,Medium
+22,Abhoghi,Indraikku Yenindha Aanandhame,Vaidhehi Kaathirundhaal,,,,Medium
+23,Abhoghi,Kalai Nera Poonguyil,Amman Kovil Kizhakaale,,,,Medium
+24,Ahirbhairavi,Ezhumalaiyan Magimai,Ezhumalaiyan Magimai,,,,Medium
+30,Amruthavarshini,Vanin Devi Varuga,Oruvar Vaazhum Aalayam,,,,Medium
+29,Amruthavarshini,Thoongatha Vizhigal,Agni Nakshatiram,,,,Medium
+28,Amruthavarshini,Mazhaikoru Dhevane,Sri Ragavendra,,,,Medium
+27,Amruthavarshini,Kurisenu Virijallule,Gharshana (Telugu),,,,Medium
+26,Amruthavarshini,Kathirundha Malli Malli,Mallu Vaetti Minor (Charanam Uses Ri1),,,,Medium
+25,Amruthavarshini,Ippodhenna Thevai,Makkal Aatchi,,,,Medium
+31,Anandha Bhairavi,Kala Maadu Onnu (The Nassar + Oorvasi Charanam),Magalir Mattum,,,,Medium
+32,Anandha Bhairavi,Chittu Pole Muthu Pole,Iniya Uravu Poothadhu,,,,Medium
+33,Anandha Bhairavi,Paraparame,Ramana Geetham,,,,Medium
+34,Anandha Bhairavi,Parthalae Theriyadho,Sri Ragavendra,,,,Medium
+35,Anandha Bhairavi,Thevai Indha Paavai,Andha Oru Nimidam (Wizardy Style Shift In The Charanams !),,,,Medium
+36,Andholika,Raman Aandaalum (The Folk Interludes Of The Song),Mullum Malarum,,,,Medium
+37,Ataana,Baalakanakamaya,Salangai Oli (Its Saint Thyagaraja'S Krithi),,,,Medium
+38,Bahudhari,Brova Barama,Kavari Maan,,,,Medium
+39,Bahudhari,One And Two Cha Cha Cha,Nalladhoru Kudumbam,,,,Medium
+40,Behag,,,,,,Medium
+41,Behag,Hey Hey Oorayiram,Meendum Kokila,,,,Medium
+42,Behag,Un Paarvayil Orayiram,Amman Kovil Kizhakale,,,,Medium
+53,Bhageshri,Thaen Mozhi Endhan Thaen Mozhi,Solla Thudikkudhu Manasu,,,,Medium
+52,Bhageshri,Singalathu Chinnakuyile,Punnagai Mannan (Especially The Charanams),,,,Medium
+51,Bhageshri,Rokkam Irukkira Makkal Manasula,Kaasi,,,,Medium
+50,Bhageshri,Roja Thottam,Alai Osai,,,,Medium
+49,Bhageshri,Melatha Mella Thattu,Aruvadai Naal,,,,Medium
+54,Bhageshri,Unnaiyum Ennaiyum Katti Izhukudhadi,Aalappirandhavan,,,,Medium
+47,Bhageshri,Kaaviyam Paadava,Idhayathai Thirudaathe,,,,Medium
+46,Bhageshri,Kaala Kaala Sangamamo,Ezhumalaiyan Magimai,,,,Medium
+45,Bhageshri,Ingeyum Engeyum,Sathya (By Legendary Singer Lata Mangeshkar),,,,Medium
+44,Bhageshri,Eduthu Naan Vidava En Paatai,Pudhu Pudhu Arthangal,,,,Medium
+43,Bhageshri,Aamani Paadave,Geethanjali (Telugu),,,,Medium
+48,Bhageshri,Mazhai Varudhu Mazhai Varudhu,Raja Kaiyya Vacha (Soft Stunner In Aggressive Kanta Nadai),,,,Medium
+55,Bhargavi,S G2 M1 P D1 N3 S  I  S N3 D1 P M1 G2 S,(Keeravani Sans Ri2 !),,,,Medium
+56,Bhargavi,Hey Raasathi Rosapoo,En Uyir Thozhan,,,,Medium
+57,Bhavapriya,Anuraaga Yenaithu,Nee Nana Gellalaare (Kannada),,,,Medium
+58,Bhavapriya,Kandupudichen Kandupudichen,Guru Sishyan,,,,Medium
+59,Bhimpalasi,Vasantha Kala Kolangal,Thyagam (Eternal Song),,,,Medium
+64,Bilahari,Nee Onru Thaana Sangeethama,Unnal Mudiyum Thambi,,,,Medium
+63,Bilahari,Maaman Veedu,Ellam Inba Mayam,,,,Medium
+60,Bilahari,Ennodu Potti Ittu Jeyichavan Yaarumillae,Thalaattu,,,,Medium
+61,Bilahari,Neethone Paadenu Sangeetham,Rudraveena (Telugu),,,,Medium
+62,Bilahari,Koondalile Megam Vandhu,Balanagamma,,,,Medium
+73,Brindhavana Saranga,Maalaigal Idam Maarudhu Maarudhu,December Pookal,,,,Medium
+78,Brindhavana Saranga,Poongatre Theendaadhe,Kunkumachimizh,,,,Medium
+77,Brindhavana Saranga,Oru Pokkiri Rathiri,Idhu Namma Bhoomi,,,,Medium
+76,Brindhavana Saranga,Muthamma Muthu Muthu,Thanthuvitten Ennai,,,,Medium
+75,Brindhavana Saranga,Medhuva Thandhi Adichaane,Thaalaatu (Trace Mix Of Madhyamavathi),,,,Medium
+72,Brindhavana Saranga,Kovil Mani Kaetene,Kanna Unai Thedugiren,,,,Medium
+74,Brindhavana Saranga,Manadhil Ore Oru Poo,En Purushan Thaan Enakku Mattum Thaan,,,,Medium
+70,Brindhavana Saranga,Kallukkulle Vandha Eeram Enna,Unakaagave Vazhgiraen,,,,Medium
+65,Brindhavana Saranga,Aakaashamulo,Swarna Kamalam (Telugu),,,,Medium
+69,Brindhavana Saranga,Indha Jilla Muzhuka Nalla Theriyum,Priyanka,,,,Medium
+68,Brindhavana Saranga,Dheivangal Kan Paarthadhu,Pudhiya Ragam,,,,Medium
+67,Brindhavana Saranga,Devi Durga Devi,Sankeerthana (Telugu),,,,Medium
+66,Brindhavana Saranga,Chinnanjiru,Amudha Ganam,,,,Medium
+71,Brindhavana Saranga,Konjum Kuyil Paattu,Kanna Unai Thedugiren,,,,Medium
+91,Chakravagam,Vanithamani Vanamogini,Vikram (Staggering Strings Work!!),,,,Medium
+90,Chakravagam,Vanilae Thenila,Kaakhi Sattai,,,,Medium
+89,Chakravagam,Poongaatre,Friends,,,,Medium
+88,Chakravagam,Nee Paadhi Naan Paadhi,Keladi Kanmani (That Stunning 20 Seconds Prelude ),,,,Medium
+87,Chakravagam,Marandhen Pirandhen,Ilaiyarajavin Geethanjali (A Hypnotic Tune),,,,Medium
+86,Chakravagam,Love Love,Sakkarai Thevan,,,,Medium
+84,Chakravagam,Halli Laavaniyali,Nammura Mandaara Hoove (Kannada),,,,Medium
+83,Chakravagam,Kothara Pithaara Kokko,Detective Naarada (Telugu),,,,Medium
+82,Chakravagam,Keliside Prema Velaa,Gulabi (Kannada),,,,Medium
+81,Chakravagam,Chalakku Chalakku,Chembaruthi,,,,Medium
+80,Chakravagam,Alli Sundaravalli,Kangalin Vaarthaigal  ( Jeez!!! What A Gem),,,,Medium
+79,Chakravagam,Aapa Kada Anna Kili,Paayum Puli,,,,Medium
+85,Chakravagam,Iniya Malargal Malarum,Poonthottam,,,,Medium
+97,Chalanaatai,Pattu Poo Poo,Veera,,,,Medium
+98,Chalanaatai,The Second Track Of The Album,How To Name It,,,,Medium
+96,Chalanaatai,Panivizhum Malar Vanam,Ninaivellam Nithya,,,,Medium
+95,Chalanaatai,Jivvu Jivvunnu Yerudhadi,Enga Ooru Kavalkaaran,,,,Medium
+94,Chalanaatai,Hello Kiss Me Wrong Number,Siva (Telugu),,,,Medium
+93,Chalanaatai,Chukkalu Temenna,April 1St Vidudhala (Telugu),,,,Medium
+92,Chalanaatai,Aala Asathum Malli,Kanni Raasi,,,,Medium
+99,Chandrajyothi,Nanmai Nalgum,Ezhumalaiyan Magimai,,,,Medium
+100,Chandrakouns,Azhagu Malaraada,Vaidehi Kaathirundhaal (Mixes Hindolam / Kanta Nadai),,,,Medium
+101,Chandrakouns,Idhunaal,Chembaruthi,,,,Medium
+102,Chandrakouns,Idhuvarai Naan Oru,Konji Pesalam,,,,Medium
+103,Chandrakouns,Pada Vandhadhor,Ilamai Kalangal (Uses Ga3 And Ni2),,,,Medium
+104,Chandrakouns,Unnai Nenachi Urugum,Rasayya,,,,Medium
+105,Chandrakouns,Vanam Enum,Villupaatukkaaran,,,,Medium
+106,Chandrakouns,Velli Chalangaigal,Kadal Oviyum,,,,Medium
+120,Charukesi,Nandhavanam,Illam,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+121,Charukesi,Petha Manasu,Enna Petha Rasa (Taking Carnatic Music To The Masses),26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+122,Charukesi,Prathidinam,Anumaanaspadam (Telugu),26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+123,Charukesi,Sakkara Katti Sakkara Katti,Ullae Veliye,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+127,Charukesi,Vaanathila Velli Ratham,Enga Ooru Maapilla,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+125,Charukesi,Thoodhu Selvadharadi,Singaravelan,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+126,Charukesi,Uyire Uyirin Oliye,En Bommukkutti Ammavukku,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+119,Charukesi,Nallathor Veenai Seithe,Marubadiyum,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+124,Charukesi,Siriya Paravai,Andha Oru Nimidam,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+118,Charukesi,Naadu Paarthadhunda,Kamaraj,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+110,Charukesi,Annanukku Je Je,Annanukku Je,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+116,Charukesi,Manamaalayum Manjalum,Vathiyaar Veetu Pillai (What A Song !),26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+115,Charukesi,Kadhalin Deepam Ondru,Thambikku Entha Ooru,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+114,Charukesi,Chinnanjiru Kiliye,Mundhaanai Mudichu,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+113,Charukesi,Chinna Ponnu Chinna Ponnu,Aruvadai Naal,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+112,Charukesi,Chinna Mani Ponnu Mani,Mallu Vetti Minor,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+111,Charukesi,Arumbagi Mottaagi,Enga Ooru Kavalkaaran,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+109,Charukesi,Amma Nee Sumandha,Annaiyor Aalayam,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+108,Charukesi,Amma Aagaayam Vittu,The Real Salute (Documentary Film),26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+107,Charukesi,Aadal Kalayae,Sri Raghavendra,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+117,Charukesi,Mayanginen Solla Thayanginen,Naane Raja Naane Manthiri,26.0,S R2 G3 M1 P D1 N2 S,S N2 D1 P M1 G3 R2 S,High
+128,Chitrambhari,Sangeetham En Dhegam,Balanagamma,,,,Medium
+134,Desh,Vizhiyil Pudhu Kavidhai Padithen Ho,Theerthakaraiyinile,,,,Medium
+132,Desh,Poonguyil Ponmalaiyil,Thazhuvaadha Kaigal,,,,Medium
+133,Desh,Unakena Thaanae Innerama,Ponnu Oorukku Pudhusu,,,,Medium
+130,Desh,Gopiyargal Engu Undo,Mallu Vetti Minor,,,,Medium
+129,Desh,Ennai Kavarnthizhutha Ramanan,Guru Ramana Geetham,,,,Medium
+131,Desh,Kanneer Thuli,Raja Kaiyya Vacha (Meditative Music This !!),,,,Medium
+135,Dhanyasi,Sangeetha Gnanamu Bhakthi Vina,Moga Mull,,,,Medium
+136,Dharbar,Yochana Kamala Lochana,Sindhu Bhairavi,,,,Medium
+137,Dharbari Kaanada,S R2 G2 M1 P D1 N2 S  I  S D1 N2 P M1 P G2 M1 R2 S,,,,,Medium
+138,Dharbari Kaanada,Aagaya Vennilave,Arengetra Velai (Mixes Kanada In Charanams),,,,Medium
+139,Dharbari Kaanada,Isai Medayil,Ilamai Kalangal,,,,Medium
+140,Dharbari Kaanada,Kalyana Thenila,Mounam Sammadham (Oh What A Sweet Sweet Song),,,,Medium
+141,Dharbari Kaanada,Mannava Mannava,Walter Vetrivel,,,,Medium
+142,Dharbari Kaanada,Vidhaitha Vidhai,Ethanai Konam Ethanai Parvai,,,,Medium
+149,Dharmavathi,Shaaradenthu Paadi,Kaliyoonjal (Malayalam),,,,Medium
+151,Dharmavathi,Vaazhvae Maayama,Gayathri,,,,Medium
+150,Dharmavathi,Vaanaville Vaanaville,Ramana,,,,Medium
+148,Dharmavathi,Natarajan Kudi Konda,Salangayil Oru Sangeetham,,,,Medium
+147,Dharmavathi,Meendum Meendum,Vikram,,,,Medium
+146,Dharmavathi,Ilam Solai Poothadhal,Unakaagavae Vazhgiren (Total Music…Period),,,,Medium
+145,Dharmavathi,Ennulle Yetho Yengum Geetham,Rosappu Ravikkakaari,,,,Medium
+144,Dharmavathi,Yem Debba Theesyaavuraa,Ashwamedham (Telugu),,,,Medium
+143,Dharmavathi,Anbe Vaani,Sooryan (Malayalam),,,,Medium
+152,Dhenuka,En Soga Kathaiya Kelu,Thooral Ninu Pochu,,,,Medium
+153,Dhenuka,Kadhal Raagamum,Indiran Chandhiran,,,,Medium
+154,Dhenuka,Malliyapoo Katilile,Enna Petha Rasa,,,,Medium
+155,Dhenuka,Rathiri Neram Rayiladi Oram,Brahma,,,,Medium
+156,Dhenuka,Roja Poonthottam,Kanukkul Nilavu,,,,Medium
+157,Dhenuka,Udhaya Geedham Paaduven,Udhaya Geetham (Uses Ri2 / Ni2),,,,Medium
+158,Durga,Innarul Tharum Annapurani,Aathma,,,,Medium
+159,Durga,Kovil Mani Osai,Kizhakae Pogum Rail,,,,Medium
+160,Durga,Radha Radha,Meendum Kokila,,,,Medium
+161,Durga,Sugam Sugame,Naan Potta Saval,,,,Medium
+162,Gamanasrama,"Hey, Oru Pooncholai",Vaathiyar Veetu Pillai,,,,Medium
+163,Gambheera Naatai,Innum Ennai Enna,Singaravelan,,,,Medium
+164,Gambheera Naatai,Thangathingal,Manasinakkare (Malayalam),,,,Medium
+165,Ganamurthi,Vetrikalin Muthar Porule,Ilaiyaraajavin Geethanjali,,,,Medium
+166,Gowlai,Vedham Nee Iniya Naadham Nee,Koyil Pura,,,,Medium
+181,Gowrimanohari,Thazhampoove Kannurangu,Indru Nee Naalai Naan,,,,Medium
+191,Gowrimanohari,Sola Kiligal Rendu,Kovil Kaalai (Patdheep Touches?),,,,Medium
+190,Gowrimanohari,Pon Vaanam Panneer Thoovum,Indru Nee Naalai Naan (Patdheep Touches?),,,,Medium
+189,Gowrimanohari,Ye Ayyasaami,Varusham 16 (Charanam Mixes Dharmavathi),,,,Medium
+188,Gowrimanohari,Vilakethu Vilakethu Vellikilamai,Paer Sollum Pillai,,,,Medium
+187,Gowrimanohari,Vennelo Godhaari Andham,Sitara (Telugu),,,,Medium
+185,Gowrimanohari,Vaazhkaiyilae Kashtapattu,Vaathiyar Veetu Pillai,,,,Medium
+184,Gowrimanohari,Vaaraayo Vaanmathi,Pagal Nilavu,,,,Medium
+183,Gowrimanohari,Thillumullu Ulagatha Naan Saataiyaala Adikka,Aandan Adimai,,,,Medium
+182,Gowrimanohari,Thendralai Kandukolla,Nilave Mugam Kaatu,,,,Medium
+180,Gowrimanohari,Solai Poovil Malai Thendral,Vellai Roja,,,,Medium
+186,Gowrimanohari,Vedala Pulla,Periya Marudhu,,,,Medium
+178,Gowrimanohari,Poobalam Isaikkum,Thooral Ninnu Pochu,,,,Medium
+179,Gowrimanohari,Semeenae Semeenae,Sevvandhi,,,,Medium
+169,Gowrimanohari,Dhoorathil Naan Kanda,Nizhalgal,,,,Medium
+170,Gowrimanohari,Ellarume Thirudanga Dhaan,Naan Sigappu Manithan,,,,Medium
+171,Gowrimanohari,Endhan Vaazhkayin Artham,Chinna Kannamma,,,,Medium
+172,Gowrimanohari,Kannan Naalum,Ilamaikolam,,,,Medium
+168,Gowrimanohari,Anbe Vaa Arugile,Kili Petchu Ketkava,,,,Medium
+173,Gowrimanohari,Kodi Katti Parakkira Raaja,Aalappirandhavan,,,,Medium
+174,Gowrimanohari,Maanguyilae Poonguyilae,Karagatakaran (Touches Ga3),,,,Medium
+175,Gowrimanohari,Mottu Vitta Mulla Kodi,Indru Nee Naalai Naan,,,,Medium
+176,Gowrimanohari,Muthamizh Kaviye,Dharmathin Thalaivan,,,,Medium
+177,Gowrimanohari,Pallaaku Kudhiraiyila,Periya Veetu Pannakaran,,,,Medium
+167,Gowrimanohari,Adhi Kaalai Nilave Alangara Silaiye,Urudhi Mozhi,,,,Medium
+194,Hameer Kalyani,Kai Veenaiyai Yendhum Kalaivaaniye,Vietnam Colony (Another Gem In The Raga).,,,,Medium
+195,Hameer Kalyani,Paataale Buthi Sonnar Pataale Bakthi Sonnar,Karagatakaran,,,,Medium
+192,Hameer Kalyani,Kaalai Paniyil,Gayathri,,,,Medium
+193,Hameer Kalyani,Kadhal Oviyam Kanden Kanavo Ninaivo,Kavikuyil (Masterpiece !!),,,,Medium
+211,Hamsadhwani,Vellai Thaamarai,Kaatrukkenna Veli,,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+210,Hamsadhwani,Vaalittezhuthiya,Onnanu Nammal  (Malayalam),,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+209,Hamsadhwani,Va Va Va Kanna Va,Velaikaaran,,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+208,Hamsadhwani,Ther Kondu Sendravan,Enakkul Oruvan,,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+207,Hamsadhwani,Tharali Raadha,Rudraveena (Telugu),,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+206,Hamsadhwani,Sri Ranga Ranga Nadhanin,Mahanadhi (Pallavi Touches D2),,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+205,Hamsadhwani,Sevvaaname Ponmegame,Nalladhoru Kudumbam,,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+201,Hamsadhwani,Malargale Nadhaswarangal,Kizhakke Pogum Rayil,,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+203,Hamsadhwani,Nilavu Vandhadhu Nilavu Vandhadhu,Endrum Anbudan (Just Touches M2/D1),,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+202,Hamsadhwani,Mayile Mayile,Kadavul Amaitha Medai,,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+200,Hamsadhwani,Kalam Maaralam,Vaazhkai (Mixes D1 In Charanams !!),,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+199,Hamsadhwani,Iru Vizhiyin Vazhiye,Siva (Awesome Free Flowing Tune),,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+198,Hamsadhwani,Enna Paatu Vendum Unakku,Oru Naal Oru Kanavu,,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+197,Hamsadhwani,Ee Naade Ido,Prema (Telugu),,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+196,Hamsadhwani,Aanandha Vellam Neeyandro,Ilaiyaraajavin Geethanjali,,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+204,Hamsadhwani,Poo Mudithu,En Purushan Thaan Enakku Mattum Thaan,,S R2 G3 P N3 S,S N3 P G3 R2 S,Medium
+215,Hamsanadham,Om Namaha,Idhayathai Thirudathe,,,,Medium
+214,Hamsanadham,Om Namaha,Geethanjali (Telugu),,,,Medium
+212,Hamsanadham,Jaga Vandana,Kaliyoonjal (Malayalam),,,,Medium
+213,Hamsanadham,Minnaram Manathu,Guru (Malayalam) (A Stunner In This Raga),,,,Medium
+226,Hamsanandhi,Ragadheebam Yetrum,Payanangal Mudivadhilai,,,,Medium
+231,Hamsanandhi,Vinnor Thozhulum Thiruvannamalai,Raajavin Ramanamalai,,,,Medium
+230,Hamsanandhi,Vedham Anuvilum,Salangai Oli,,,,Medium
+229,Hamsanandhi,Vedham,Saagar Sangamam (Telugu),,,,Medium
+228,Hamsanandhi,Vaazhkai Odam Sella,Aval Appadithaan (Haunting Tune This),,,,Medium
+227,Hamsanandhi,Vaanam Niram Maarum,Dhavani Kanavugal,,,,Medium
+225,Hamsanandhi,Raathiriyil Poothirukkum,"Thanga Magan (Line ""Vaazhaiyilai Neerthelithu"" Is Vasantha)",,,,Medium
+221,Hamsanandhi,Nee Paadum Paadal Edhu,Engeyo Kaeta Kural,,,,Medium
+223,Hamsanandhi,Paavana Guru,Mella Thirandhadhu Kadhavu,,,,Medium
+217,Hamsanandhi,Edo Mouna Raagam,Ninnu Choodaka Nenundalenu (Telugu),,,,Medium
+218,Hamsanandhi,Gaana Kuyile Kannurakkam Ponathadi,Pooncholai,,,,Medium
+219,Hamsanandhi,Gaanam Aadi Porunne,Sankeerthana (Telugu),,,,Medium
+224,Hamsanandhi,Putham Puthu Poo,Thalapathy,,,,Medium
+216,Hamsanandhi,Beeso Mungaare,Gulabi (Kannada) [Sheer Magic Of Ir Teaming Up With Spb],,,,Medium
+222,Hamsanandhi,O Poo Malai,Iniya Uravu Poothadhu,,,,Medium
+220,Hamsanandhi,Mallelo Illesa,Anumaanaspadam (Telugu),,,,Medium
+250,Harikhambhodhi,Palaiyathu Ponnu Naanu,Rasukutty,,,,Medium
+251,Harikhambhodhi,Pattu Vanna Selaikaari,Engeyo Kaetta Kural,,,,Medium
+252,Harikhambhodhi,Pazhamudhir Cholai,Varusham Padhinaaru,,,,Medium
+253,Harikhambhodhi,Ponnavani Poomuthe,Man Of The Match (Malayalam),,,,Medium
+254,Harikhambhodhi,Pottu Vaitha Oru Vatta Nila,Idhayam,,,,Medium
+255,Harikhambhodhi,Saandhu Pottu Oru Sandhana Pottu,Thevar Magan,,,,Medium
+256,Harikhambhodhi,Santhosham Inru Santhosham,Manidhanin Marupakkam,,,,Medium
+258,Harikhambhodhi,Thendral Varum Vazhiyai,Friends (Watch Out For Some Bahudhari Touches !!),,,,Medium
+249,Harikhambhodhi,Oru Naal Oru Kanavu,Kannukul Nilavu,,,,Medium
+260,Harikhambhodhi,Yetham Amma Yetham,Ninaive Oru Sangheedham,,,,Medium
+261,Harikhambhodhi,Vaana Mazhai Pole,Idhu Namma Bhoomi (Mixes Ni3 / Desh Touch?!),,,,Medium
+262,Harikhambhodhi,Vaangada,Komberi Mookan,,,,Medium
+257,Harikhambhodhi,Thandhen Thandhen Isai,Villupaatukkaaran,,,,Medium
+248,Harikhambhodhi,Oru Kundu Malli,Avatharam,,,,Medium
+259,Harikhambhodhi,Yaarum Vilaiyaadum Thottam,Nadodi Thendral,,,,Medium
+246,Harikhambhodhi,Naan Yaaru Enakkedhum,Chinna Jamin (Simple Yet Powerful Tune),,,,Medium
+247,Harikhambhodhi,Naane Naana Yaaro Dhaana,Azhaghe Unnai Aaradhikiren,,,,Medium
+232,Harikhambhodhi,Aadi Pattam Thedi Paarthu,Ponnumani,,,,Medium
+234,Harikhambhodhi,Andha Kattilukku,Chinna Vaathiyaar,,,,Medium
+235,Harikhambhodhi,Deviyae Naan Saranam,Thanga Thaamaraigal,,,,Medium
+236,Harikhambhodhi,Ennavendru Solvadhamma,Raajakumaran,,,,Medium
+237,Harikhambhodhi,Guru Sharanam Sharanam,Guru (Malayalam) [Wholesome Music…Period !!],,,,Medium
+238,Harikhambhodhi,Kaana Karunkuyilae,Sedhu,,,,Medium
+233,Harikhambhodhi,Ada Pudhiyadhu Pirandhadhu,Thevar Magan,,,,Medium
+240,Harikhambhodhi,Kangal Rendum Sandham Solla,Unakkagave Vaazhgiren (Mind Boggling Strings Work),,,,Medium
+241,Harikhambhodhi,Kannu Pada Pogudhaiyya,Chinna Kounder,,,,Medium
+242,Harikhambhodhi,Manasukkula Nayana Satham,Mallu Vetti Minor,,,,Medium
+243,Harikhambhodhi,Manavaatti Penninnu,Kaliyoonjal (Malayalam),,,,Medium
+244,Harikhambhodhi,Mullai Arumbe,Thanikaatu Raja (Oh Sweet Honey This Song),,,,Medium
+239,Harikhambhodhi,Kalyana Mela Satham,Thambikku Entha Ooru,,,,Medium
+245,Harikhambhodhi,Naan Thaan Toppu,Thanikaatu Raja,,,,Medium
+263,Hemabhushini,Karayaadha Manamum Undo,Varusham 16,,,,Medium
+264,Hemavathi,Manam Poley Maangalyam,Pudhupatti Ponnuthaayi,,,,Medium
+278,Hindolam,Om Namahshivaaya,Salangai Oli,,,,Medium
+279,Hindolam,Ooradungum Saamathile,Pudhupatti Ponnuthaayi,,,,Medium
+280,Hindolam,Rangulalo Kalavo,Abhinandana  (Telugu),,,,Medium
+284,Hindolam,Unnal Mudiyum,Unnal Mudiyum Thambi,,,,Medium
+282,Hindolam,Sreedevi En Vazhvil,Illamai Kolam,,,,Medium
+283,Hindolam,Solla Solla Enna Perumai,Ellam Inba Mayam,,,,Medium
+285,Hindolam,Yaarodu Yaar,Thanga Thaamaraigal (Mixes Chandrakouns?),,,,Medium
+277,Hindolam,Om Namahshivaaya,Saagar Sangamam (Telugu),,,,Medium
+281,Hindolam,Saagarasangamame,Seethakoka Chilaka  (Telugu),,,,Medium
+276,Hindolam,Oh Janani En Suram Nee,Pudhiya Ragam,,,,Medium
+270,Hindolam,En Veettu Jannal,Raman Abdulla,,,,Medium
+274,Hindolam,Naan Thedum,Dharmapathini (Mixes Chandrakouns'S Ni3),,,,Medium
+275,Hindolam,Nilave Nee Vara Vendum,En Arugil Nee Irundhal,,,,Medium
+266,Hindolam,Aanandha Thenkaatru,Manipoor Maamiyaar,,,,Medium
+267,Hindolam,Are Kamali Kamali Kamali,Boomi Geetha (Kannada),,,,Medium
+268,Hindolam,Dharisanam Kidaikaatha,Alaigal Oiyvathilai,,,,Medium
+265,Hindolam,Aa Kanulalo,Aalapana  (Telugu),,,,Medium
+271,Hindolam,Kanna Unai Thedugiraen Vaa,Unakkagave Vaazhgiren,,,,Medium
+272,Hindolam,Kuppamma Petha Raasa,Alai Osai,,,,Medium
+273,Hindolam,Naan Aga Naan Illai,Thoongathe Thambi Thoongathe,,,,Medium
+269,Hindolam,Ellarukkum,Enna Petha Raasa,,,,Medium
+286,Jhankaradhwani,S R2 G2 M1 P D1 N1 S  I  S N1 D1 P M1 G2 R2 S,,,,,Medium
+287,Jhankaradhwani,Kanmaniye Pesu,Kaakhi Sattai (Scant G2 Usage),,,,Medium
+296,Jog,Peygala Nambaatha,Mahanadhi,,,,Medium
+299,Jog,Vatta Pandhai Thottu,Chinna Vaathiyaar,,,,Medium
+298,Jog,Vanjikodi,Kanna Unai Thedugiren,,,,Medium
+297,Jog,Raagam Azhaithu Vantha Geetham,Kanmani Oru Kavithai (Some Dharbari Touches),,,,Medium
+295,Jog,Paadhi Kallil Mayakkam,Azhaghe Unnai Aaradhikiren,,,,Medium
+293,Jog,Oh Kalai Kuyilgale,Unnai Vaazhthi Padugiren,,,,Medium
+294,Jog,Oru Pattaampoochi Nenjukkulle,Kaadhalukku Mariyaadhai,,,,Medium
+289,Jog,Holi Holi Holi,Rasukutty,,,,Medium
+290,Jog,Isai Padu Nee,Isai Paadum Thendral,,,,Medium
+288,Jog,S G3 M1 P N3 S  I  S N2 P M1 G3 M1 G3 S R3 S,,,,,Medium
+292,Jog,Metti Oli Kaatrodu,Metti,,,,Medium
+291,Jog,Kavidhai Kelungal,Punnagai Mannan (Jog Is One Of The Ragas),,,,Medium
+300,Jonpuri,S R2 M1 P D1 N2 S  I  S N2 D1 P M1 G2 R2 S,(Hindustani Derivative From Asavari Thaat),,,,Medium
+301,Jonpuri,Dhegam Siragadikkum,Naane Raja Naane Manthiri,,,,Medium
+302,Jonpuri,Enakku Piditha Padal,Julee Ganapathy,,,,Medium
+303,Jonpuri,Engengu Nee Sendra Podhum,Ninaikka Therindha Manamae,,,,Medium
+316,Kaapi,Saami Kitta Solli Vachu,Aavaaram Poo (Subtle Usage Of The Raga),,,,Medium
+325,Kaapi,Yenaava,Sankeerthana (Telugu),,,,Medium
+324,Kaapi,Thumbee Vaa,Olangal (Malayalam),,,,Medium
+323,Kaapi,Thayum Naane Thanga Ila Maane,Engeyo Kaeta Kural,,,,Medium
+322,Kaapi,Thanni Thotti,Sindhu Bhairavi,,,,Medium
+320,Kaapi,Summaa Saayaka,Kochu Kochu Santhoshangal (Malayalam),,,,Medium
+319,Kaapi,Sugamo Aayiram,Thunaiyiruppal Meenakshi,,,,Medium
+318,Kaapi,Sirithal Sirippen Aval Oru Rajakumari,Mariamman Thiruvizha,,,,Medium
+317,Kaapi,Sangathil Paadatha Kavigal,Auto Raja,,,,Medium
+315,Kaapi,Oranjaram Usharaiyya,"Kakai Chiraginile  (Mixes ""Desh"" In Charanams)",,,,Medium
+321,Kaapi,Sunu Oh Yashodha,Live In Italy - Ilaiyaraaja'S Music Journey,,,,Medium
+313,Kaapi,Kannan Vandhadhaalae Nanmai Vandhadhu,Thambi Pondatti,,,,Medium
+312,Kaapi,Hey Paadal Onru,Priya (Piloo Touch?),,,,Medium
+311,Kaapi,Ganashama Vrindhavanyam,Kochu Kochu Santhoshangal (Malayalam) [God'S Own Tune],,,,Medium
+310,Kaapi,Ennuyir Neethaanae,Priya (Piloo Touch?),,,,Medium
+309,Kaapi,Chinna Thaayaval,Thalapathi,,,,Medium
+314,Kaapi,Kanne Kalaimaane,Moondram Pirai,,,,Medium
+308,Kaapi,Chinna Chinna Malar Ondru,Kavalai Padathe Sagodhara,,,,Medium
+307,Kaapi,Chembaruthi Poovu,Chembaruthi,,,,Medium
+306,Kaapi,Ada Maapila Summa Moraikkadha,Siva (Versatile Use Of A Gamakkam Prone Raga!!),,,,Medium
+326,Kadhambini,Vellai Nirathoru,Ennai Vittu Pogaadhe,,,,Medium
+327,Kalasaveri,Neeya Azhaithadhu,Alai Osai,,,,Medium
+328,Kalasaveri,Sandi Raaniye,Mannan (Trace Mix Of D1 / M1),,,,Medium
+329,Kalyana Vasandham,Nenjil Ulla Kayam Onru,Rishimoolam,,,,Medium
+356,Kalyani,Siru Kootula Ulla Kuyilukku,Paandi Naatu Thangam,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+352,Kalyani,Om Namo Nama,Surya Ips (Telugu),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+350,Kalyani,Nadhiyil Aadum,Kaadhal Oviyam,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+353,Kalyani,Poonkattinodum,Poomukhappadiyil Ninneyum Kaathu (Malayalam),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+354,Kalyani,Poovadikalil Alayum,Vyamoham,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+355,Kalyani,Radha Azhaikiral,Therkkathi Kallan,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+351,Kalyani,Nirpathuve Nadapathuve,Bharathi,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+357,Kalyani,Sundari Kannal Oru Seidhi,Thalabadhi  (Blends Raga Kosalam - R3 Usage),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+364,Kalyani,Vandhal Mahalaxmiye,Uyarndha Ullam,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+359,Kalyani,Thalaatum Kaatre,Devan,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+360,Kalyani,Unnai Naan Parkaiyil,Kannukoru Vannakili (Shows Many Janya Characteristics),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+361,Kalyani,Va Kathirukka Neramillai,Kathirukka Neramillai,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+362,Kalyani,Vaidhehi Raman,Ilamai Kolangal,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+363,Kalyani,Vaishnava Janatho,Hey Ram,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+365,Kalyani,Vellai Pura Ondru,Pudhu Kavidhai,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+366,Kalyani,Vizhigal Meeno Mozhigal Theno,Raagangal Maaruvadhillai,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+349,Kalyani,Naan Paada Varuvaai,Udiri Pookal,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+358,Kalyani,Suramodhamu,Aditya-369 (Telugu),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+348,Kalyani,Naan Enbathu Nee Allavo,Soorasamhaaram,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+367,Kalyani,Vizhiyae Vilakondru Yaetru,Thazhuvaadha Kaigal,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+346,Kalyani,Mandhaara Poo,Vinodhayathra (Malayalam),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+330,Kalyani,Aaraaro Aararo,Anand,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+331,Kalyani,Adhisaya Nadam Idum Abhinaya Saraswathiyo,Sirayil Pootha Chinna Malar,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+332,Kalyani,Akkuthikkuthaana Vaayo,Kaliyoonjal (Malayalam),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+333,Kalyani,Amma Endrazhaikkatha,Mannan,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+334,Kalyani,Arul Thavazhum,Guru Ramana Geetham,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+335,Kalyani,Chamber Welcomes Thiyagaraja,How To Name It,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+336,Kalyani,Charanam Bhava Karunamayi,Sedhu (Some Deviations In Charanams),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+337,Kalyani,Dhevan Thandha Veenai,Unnai Naan Sandhithen (Few Anya Swaras In Ist Para),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+347,Kalyani,Manjal Veyil,Nandu,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+339,Kalyani,Ila Vattam Kaetkattum,My Dear Maarthaandan  (Vintage Raja Number),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+340,Kalyani,Janani Janani,Thai Moogambigai (Bet There Isn'T A Better Kalyani Song),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+341,Kalyani,Kaatril Varum Geedhamae,Oru Naal Oru Kanavu (! Yet Another Massive Kalyani),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+342,Kalyani,Kalaivaaniye,Sindhu Bhairavi,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+343,Kalyani,Konjam Sangeedham Kattru Thaa,Veetula Visheshanga (The Charanams Are A Feast In Kalyani),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+344,Kalyani,Kottaara Kettile,Friends (Malayalam),65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+345,Kalyani,Malayoram Mayile,Oruvar Vaazhum Aalayam,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+338,Kalyani,Ennai Oruvan Paada Sonnan,Kumbakarai Thangaiyya,65.0,S R2 G3 M2 P D2 N3 S,S N3 D2 P M2 G3 R2 S,High
+305,Kanada,Poomaalai,Sindhu Bhairavi,,,,Medium
+304,Kanada,Marugo Marugo,Sathi Leelavathi,,,,Medium
+368,Kanakangi,Mogam Enum Thee,Sindhu Bhairavi (Bending An Un-Bendable / Stiff Scale),,,,Medium
+386,Karaharapriya,Vazha Vaikkum Kadhalukku,Aboorva Sagotharargal,,,,Medium
+385,Karaharapriya,Unnai Vaazhthavandhen,Unna Vazhthi Padugiren,,,,Medium
+384,Karaharapriya,Thooliyile Aada Vandha,Chinnathambi,,,,Medium
+383,Karaharapriya,Thirunaveli Seemayile,Thirunelveli,,,,Medium
+382,Karaharapriya,Thalaattu Maari Ponadhe,Unnai Naan Sandhithen,,,,Medium
+381,Karaharapriya,Thaana Vantha Santhaname,Ooru Vittu Ooru Vanthu (You Couldn’T Ask For More),,,,Medium
+380,Karaharapriya,Poongatru Thirumbuma,Mudhal Mariyaadhai,,,,Medium
+387,Karaharapriya,Yaaru Yaaru,Dharmathin Thalaivan,,,,Medium
+379,Karaharapriya,Poo Malarnthida Nadamidum Pon Mayile,Tik Tik Tik,,,,Medium
+376,Karaharapriya,Maalai Karukalil Solai Karunkuyil,Neethiyin Marupakkam (Touches G3 And Ni3),,,,Medium
+377,Karaharapriya,Olathumbathu,Pappayude Swantham Appoose (Malayalam),,,,Medium
+375,Karaharapriya,Maapillaikki Kaalai Vayasu,Netrikkan,,,,Medium
+374,Karaharapriya,Kadalora Kavidhaiye,Chinnavar,,,,Medium
+373,Karaharapriya,Ilangaathu Veesudhe,Pithamagan,,,,Medium
+372,Karaharapriya,Enga Ooru Kavakaara,Enga Ooru Kavalkaaran (Brings Out Folk Face Of The Raga),,,,Medium
+370,Karaharapriya,Adukku Malli,Aavaram Poo,,,,Medium
+369,Karaharapriya,Aanenna Pennenna,Dharmadurai,,,,Medium
+378,Karaharapriya,Orae Oru Gramathilae,Orae Oru Gramathilae,,,,Medium
+371,Karaharapriya,Anandham Pongida Pongida,Sirayil Pootha Chinna Malar,,,,Medium
+388,Karnaranjani,Ilamai Enum Poongaatru,Pagalil Oru Iravu,,,,Medium
+389,Karnaranjani,Naan Paadum Mouna Ragam,Idhaya Koyil (M2 Usage),,,,Medium
+390,Karnaranjani,Theertha Karaidhanilae,Thai Pongal (Haunting Stuff),,,,Medium
+393,Kathyayini,Vizhiyile Mani Vizhiyil Mouna Mozhi,"Nooraavadhu Naal (With Lot Of Anya Swaras, Ni3, D2)",,,,Medium
+391,Kathyayini,Amma Amma Enthan Aaruyire,Uzhaipaali,,,,Medium
+392,Kathyayini,Jodi Nathigal,Anbe Odi Vaa,,,,Medium
+394,Kedharam,Pon Maalai Pozhudhu,Nizhalgal,,,,Medium
+395,Kedharam,Sundari Neeyum Sundaran Nyanum,Michael Madana Kama Rajan (A Multi Genre Song),,,,Medium
+460,Keeravani,Povoma Oorgolam,Chinnathambi,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+459,Keeravani,Poovay Virinju,Atharvam (Malayalam),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+458,Keeravani,Poongodi Dhaan Poothadhamma,Idhayam,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+457,Keeravani,Poongaatre Ini Podhum,"Padicha Pulla (Belter Of A Tune, And Awesome Rendition !!!)",21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+456,Keeravani,Poo Pookum Maasam,Varusham 16,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+455,Keeravani,Paadi Parantha Kili,Kizhakku Vaasal (Touches Ga3 / Ma2),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+454,Keeravani,Oru Porkaalam Thodangum,Kasthuri Maan,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+453,Keeravani,Oru Thulir Onnu Arumbuthu,Thodarum,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+452,Keeravani,Oru Muthukili,Thayamma,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+441,Keeravani,Marakkudayal,Manasinakkare (Malayalam),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+450,Keeravani,Oru Kaadhal Dhevadhai,Saindhaadamma Saindhaadu,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+449,Keeravani,Oora Therinjikiten Ulagam Purinjikiten,Padikaadhavan (Touches Ni2),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+448,Keeravani,Oliyile Therivadhu,Azhagi (Mixes Ni2I),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+447,Keeravani,Oh Papa Laali,Idhayathai Thirudathe,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+446,Keeravani,Nila Adhu Vaanathu Melae,Nayagan (A Very Versatile Usage Of Keeravani),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+445,Keeravani,Nenjukkule Innarunnu,Ponnumani,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+444,Keeravani,Neethaane Neethaane,Thaalaattu Paadava,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+443,Keeravani,Nadandhal Irandadi,Chembaruthi,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+442,Keeravani,Nandhavana Kuyilae,Ponnu Veetukkaran,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+461,Keeravani,Priyasaki Oh Priyasaki,Gopura Vasalile,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+451,Keeravani,Oru Kili Urugudhu,Anandha Kummi,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+462,Keeravani,Pularikkinnam,Friends (Malayalam),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+464,Keeravani,Rasathi Manasule,Raasave Unna Nambi,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+483,Keeravani,Vennilavukku Vaanatha,Thaalaattu Paadava,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+482,Keeravani,Veenaikku Veenai Kunju,Ellame En Raasathan,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+481,Keeravani,Vanathilirubdhu Kudhichi Vandhena,Poonthotam,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+480,Keeravani,Vaanam Adhirave,Ramana,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+479,Keeravani,Unnai Naan Ariven,Guna,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+478,Keeravani,Unna Nenache Pattu Padichen,Aboorva Sagotharargal,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+477,Keeravani,Un Nenja Thottu Sollu,Rajadhi Raaja,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+476,Keeravani,"Un Kuthama, En Kuthama",Azhagi,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+475,Keeravani,Thuliyo Thuli Muthu Thuli,Kathirukka Neramillai,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+474,Keeravani,Thevaram Nokkunnunde,Rasathanthram (Malayalam),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+473,Keeravani,Thendral Kaatre Konjam Nillu,Eeramaana Rojaave,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+472,Keeravani,The Fourth Track Of The Album,How To Name It,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+471,Keeravani,Thanga Changili,Thooral Ninnu Pochu,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+470,Keeravani,Thamara Kuruvikku,Achuvinte Amma (Malayalam),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+469,Keeravani,Thalukki Thalukki,Kizhakku Vasal (Mixes Ni2),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+468,Keeravani,Suttri Varum Ulagathile,Raajavin Ramanamaalai,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+467,Keeravani,Sittu Parakudhu Kuthaalathil,Nilave Mugam Kaatu,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+466,Keeravani,Siru Siru Siragugalil,Konji Pesalam,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+465,Keeravani,Rotoram Paatu Satham,En Mana Vaanil,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+463,Keeravani,Raja Raja Sozhan Naan,Rettai Vaal Kuruvi,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+440,Keeravani,Mannil Intha Kaadal,Keladi Kanmani (Patdheep Touches?),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+433,Keeravani,Malare Thendral Paadum Gaanam,Veetula Visheshanga,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+438,Keeravani,Manja Podi Theikayile,Shenbagame Shenbagame,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+414,Keeravani,Idhayame Idhayame Ennai Marandhadhu,Julee Ganapathy,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+413,Keeravani,Highways'Le Speed Break Ille,Manasellam,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+412,Keeravani,Goods Vandiyile,Kugumachimizh [Cool Interludes],21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+411,Keeravani,Ennule Ennule,Valli (Mixes Ni2),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+410,Keeravani,Ennai Thalatta Varuvalo,Kadhalukku Mariyadhai (A Soft Stunner),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+409,Keeravani,Enge Sellum Intha Paathai,Sethu,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+408,Keeravani,Enadhu Ragam Mouna Ragam,Pondaatti Thevai,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+407,Keeravani,Kanmaniyae Kanmaniyae Solluvadha Kaelu,Chinna Vaathiyaar,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+415,Keeravani,Ilavenil Idhu Vaigaasi Maasam,Kaadhal Rojaave,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+406,Keeravani,Dhinakku Dhinakku Dham,Urudhi Mozhi,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+404,Keeravani,Chinna Mani Kuyile,Amman Kovil Kizhakale (Misses D1 But Touches Ni2 !!),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+403,Keeravani,Aruna Kirana,Guru (Malayalam),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+402,Keeravani,Aridhaaratha Poosikolla,Avatharam,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+401,Keeravani,Andha Vanatha Pola Manam,Chinna Kounder (Touches Ni2 Slightly),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+400,Keeravani,Alapanai Seiyyum Malai Pozhudhu,Pon Megalai,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+399,Keeravani,Alamaram Velamaram,Senthooram,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+398,Keeravani,Adi Naan Pudicha Kiliye,Rasukutty (A Gem In The Raga !!),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+397,Keeravani,Aayiram Kodi Sooriyan Pole,Karisakkaatu Poove,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+405,Keeravani,Dheem Thakita,Nammura Mandaara Hoove (Kannada),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+416,Keeravani,Jingidi Jingidi Unakku,Guru Sishyan,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+417,Keeravani,Kaalathai Vendra,Uliyin Osai,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+418,Keeravani,Kaatril Enthan,Johny,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+437,Keeravani,Mamanoda Manasu Malliyappoo Pole,Uthama Raasa (Beautifull Song…Also See The Picturization),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+436,Keeravani,Malayoram Veesum Kaatru,Paadu Nilave,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+435,Keeravani,Malayoram Maanguruvi,Enga Thambi,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+434,Keeravani,Malargalile Aaradhanai,Karumbu Vil,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+396,Keeravani,Aagaya Thamarai,Naadodi Paatukaran,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+432,Keeravani,Mala Karukalile,Enga Ooru Kavalkaaran (Mixes Ni2),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+431,Keeravani,Kuyilukku Koo Koo Koovida,Friends,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+430,Keeravani,Kuyile Kuyile,Kadhal Oviyam,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+429,Keeravani,Kuilalo,Anumaanaspadam (Telugu),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+428,Keeravani,Konjam Konjam,Maayakkannaadi,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+427,Keeravani,Keeravani,Anweshana  (Telugu),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+426,Keeravani,Keeravani Keeravani,Paadum Paravaigal,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+425,Keeravani,Kanne Inru Kalyana,Aanazhagan,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+424,Keeravani,Kanmanikku Vaazhthu,Annan,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+423,Keeravani,Kan Malargalin Azhaipidhazh,Thai Pongal,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+422,Keeravani,Kalyana Pallakkil,Kaliyoonjal (Malayalam),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+421,Keeravani,Kajuraho Kanavilor Sirpam,Oru Naal Oru Kanavu,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+420,Keeravani,Kadha Pola Thonum Idhu Kadhaiyum Illa,Veerathaalatu (Staggering Interludes),21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+419,Keeravani,Kadhal Oru Kolam,Vaa Vaa Vasandhamae,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+439,Keeravani,Manjal Poosum,Friends,21.0,S R2 G2 M1 P D1 N3 S,S N3 D1 P M1 G2 R2 S,High
+487,Khamas,Ponnil Vanam,Villupaatukkaaran,,,,Medium
+484,Khamas,Kootathile Kovil Pura,Idhaya Kovil,,,,Medium
+485,Khamas,Naan Pesa Vandhen,Palooti Valartha Kili,,,,Medium
+486,Khamas,Pallaviye Charanam,Oruvar Vaazhum Aalayam,,,,Medium
+488,Kundalavarali,Azhagi Nee Paerazhagi,Enga Ooru Paatukaran,,,,Medium
+489,Kundalavarali,Adi Maana Maduraiyilae,Kovil Kaalai,,,,Medium
+490,Kundalavarali,Puttu Puttu Vaikattuma,Illam,,,,Medium
+491,Lalitha,Amma Janani Charanaalayam Nee,Ilaiyaraajavin Geethanjali (Will Cleanse Ur Being),,,,Medium
+492,Lalitha,Idhazhil Kadhai,Unnal Mudiyum Thambi,,,,Medium
+493,Lalitha,Lalita Priya Kamalam,Rudraveena (Telugu),,,,Medium
+494,Lalitha,Sengamalam Sirikkidhu,Dhavani Kanavugal (Uses Ga2 In Charanams),,,,Medium
+495,Lalitha,Thirumagal Un Mugam Paarka Vendum,Veera,,,,Medium
+496,Lalitha,Vanakuyile Kuyil Tharum,Priyanka,,,,Medium
+500,Lathaangi,Thogai Ila Mayil Aadi Varugudhu,Payanangal Mudivadhillai (Trace M2 Usage),,,,Medium
+501,Lathaangi,Vanamellam Senbagapoo (Female Version),Naadodi Pattukaaran,,,,Medium
+498,Lathaangi,Chinna Rasave,Walter Vetrivel,,,,Medium
+497,Lathaangi,Aadum Padham Thozha,Pon Megalai,,,,Medium
+499,Lathaangi,Ennai Thodarndhu,Maamiyaar Veedu,,,,Medium
+502,Lavanthika,Aathadi Paavada Kaathada,Poo Vilangu (Weak Hearts Just Call It Brindhavana Saranga),,,,Medium
+503,Lavantipriya,Mouna Ragam,Kolangal (Only Possible To Ilaiyaraja !!),,,,Medium
+504,Maand,Machaan Un Machiniya,Raman Abdulla,,,,Medium
+505,Maand,Vanna Chindhu Vandhu Vilaiyaadum,Kovil Kaalai,,,,Medium
+506,Madhukauns,Nalam Vaazha Ennalum,Marubadiyum (Uses Dha2 & Ri2),,,,Medium
+537,Madhyamavathi,Puthu Ponnu Mapillai,Kaadhal Rojaave,,,,Medium
+536,Madhyamavathi,Ponnu Veetu Kaararae Kelunga,Ponnu Veetukkaran,,,,Medium
+535,Madhyamavathi,Pon Vaana Poongavil,Vaalibamae Vaa Vaa,,,,Medium
+531,Madhyamavathi,Nila Kayidhu,"Sakalakala Vallavan (Touches Of Sri Ragam, Sriranjani)",,,,Medium
+533,Madhyamavathi,Poo Arumbuthu,Kutti,,,,Medium
+532,Madhyamavathi,Nee Thane Enthan,Ninaivellam Nithya,,,,Medium
+538,Madhyamavathi,Sembaruthi Penoruthi,Raman Abdulla,,,,Medium
+534,Madhyamavathi,Pon Meni Urugudhe,Moonram Pirai,,,,Medium
+539,Madhyamavathi,Sevanthi Pookalil Seidha Veedu,Mella Pesungal,,,,Medium
+530,Madhyamavathi,Muthu Muthu,Nammura Mandaara Hoove (Kannada),,,,Medium
+541,Madhyamavathi,Suvvi Suvvi,Swathi Muthyam (Telugu),,,,Medium
+542,Madhyamavathi,Thaalattu Pillai Ennai,Achchaani,,,,Medium
+543,Madhyamavathi,Thanga Nilavukkul Nilavondru,Rickshaw Maama,,,,Medium
+544,Madhyamavathi,Thazham Poovae Vaasam,Kai Kodukum Kai,,,,Medium
+545,Madhyamavathi,Thulli Thulli,Sippikkul Muthu,,,,Medium
+546,Madhyamavathi,Vanamellam Senbagapoo (Male Version),Naadodi Pattukaaran,,,,Medium
+547,Madhyamavathi,Vanna Pandhai Thottu Vilayaada,Chinna Vaathiyaar,,,,Medium
+548,Madhyamavathi,Vennilavu Kodhipadhenna,Chinna Mapillai,,,,Medium
+540,Madhyamavathi,Solaikuyile,Ponnu Oorukku Pudhusu,,,,Medium
+529,Madhyamavathi,Maragadha Kutti,Chinna Durai,,,,Medium
+507,Madhyamavathi,Aagaya Gangai,Dharma Yudham,,,,Medium
+527,Madhyamavathi,Kuyile Kuyile Kuyilakka,En Bommukutty Ammaavukku,,,,Medium
+509,Madhyamavathi,Ariro Araro,Indiran Chandhiran,,,,Medium
+510,Madhyamavathi,Adi Pennae Ponoonjal Aadum,Mullum Malarum,,,,Medium
+511,Madhyamavathi,Ammamma,Thalaattu Padava,,,,Medium
+512,Madhyamavathi,Anandham Then Sindhum,Mann Vasanai,,,,Medium
+513,Madhyamavathi,Arule Arul Maniye,Kavalai Padathe Sagodhara,,,,Medium
+514,Madhyamavathi,Azhagaana Manjapura,Ellame En Raasathan (Bliss This One),,,,Medium
+515,Madhyamavathi,Azhagiya Thirumaganae,Rajarishi,,,,Medium
+516,Madhyamavathi,Bhoodyaaviyaa Habba Habba,Boomi Geetha (Kannada),,,,Medium
+508,Madhyamavathi,Aala Marathu Kuyilae,Annan,,,,Medium
+517,Madhyamavathi,Chittu Chittu Kuruvikku,Azhaghi,,,,Medium
+519,Madhyamavathi,Ejamaan Kaaladi Manneduthu,Ejaman,,,,Medium
+520,Madhyamavathi,En Kalyana Vaibhogam,Azhaghe Unnai Aaradhikiren,,,,Medium
+521,Madhyamavathi,Halo Guru,Nirnayam (Telugu),,,,Medium
+522,Madhyamavathi,Kannil Ilam,Aayiram Nilave Vaa,,,,Medium
+523,Madhyamavathi,Kathirum Kothi,Man Of The Match (Malayalam),,,,Medium
+524,Madhyamavathi,Kavithai Paadu Kuyilae,Thendralae Ennai Thodu (Mixes Brindavana Saranga),,,,Medium
+525,Madhyamavathi,Kumbam Karai Sertha Thangayya,Kumbakarai Thangaiyya,,,,Medium
+526,Madhyamavathi,Kuyile Kuyile,Aan Paavam (Bubbling With Enthusiasm),,,,Medium
+518,Madhyamavathi,Eeramana Rojave,Ilamaikalangal,,,,Medium
+528,Madhyamavathi,Mangalam Nerunnu,Alliyilam Poovo (Malayalam),,,,Medium
+550,Malahari,Lambodhara Lakumikara,Alaigal Oiyvathilai,,,,Medium
+549,Malahari,Srigananaadhaa,Kaatrukkenna Veli,,,,Medium
+551,Malayamarutham,Aalolam Peelikavadi Theril,Aalolam (Malayalam),,,,Medium
+552,Malayamarutham,Kanmani Nee Vara,Thendrale Ennai Thodu,,,,Medium
+553,Malayamarutham,Kodi Inbam Meni Yengum,Nenjil Aadum Poo Ondru,,,,Medium
+554,Malayamarutham,Oomai Nenjin Sondham,Manidhanin Marupakkam,,,,Medium
+555,Malayamarutham,Poojaikaaga Vaadum Poovai,Kaadhal Oviyam,,,,Medium
+556,Malayamarutham,Thendral Ennai Muthamittathu,Oru Odai Nadiyagirathu,,,,Medium
+557,Malkauns,Composer'S Breath,Nothing But Wind (Ragamalika Towards End),,,,Medium
+558,Malkauns,Sadha Sadha Unnai,Raajavin Ramanamaalai,,,,Medium
+559,Manirangu,Subharaagame En Sugabhogam Neeyae,Kanni Raasi,,,,Medium
+599,Mayamalawagowlai,Poova Eduthu Oru,Amman Kovil Kizhakaale,,,,Medium
+598,Mayamalawagowlai,Poonkathave Thaazhthiravai,Nizhalgal,,,,Medium
+597,Mayamalawagowlai,Poo Pole Un Punnagaiyil,Kavarimaan,,,,Medium
+596,Mayamalawagowlai,Oru Chiri Kandal,Ponmudi Puzhayorathu,,,,Medium
+595,Mayamalawagowlai,Onapputhattu Bullakku Vaangi Tharen,Chinna Jameen,,,,Medium
+590,Mayamalawagowlai,Masaru Ponne Varuga,Thevar Magan,,,,Medium
+593,Mayamalawagowlai,Neeye Gadhiyamma,Chinna Thurai,,,,Medium
+592,Mayamalawagowlai,Nandri Sollave Enakku,Udan Pirappu,,,,Medium
+591,Mayamalawagowlai,Mudhdhutho Srungaara,Dharma Kshethram (Telugu),,,,Medium
+600,Mayamalawagowlai,Rama Namam Oru Vedame,Sri Raghavendra,,,,Medium
+594,Mayamalawagowlai,Niyana Thangame,Raja Gopuram,,,,Medium
+601,Mayamalawagowlai,Rasathi Rasathi,Kanna Unai Thedugiren,,,,Medium
+589,Mayamalawagowlai,Mariyamma Mariyamma,Karagaatakaran,,,,Medium
+603,Mayamalawagowlai,Sivagami Nenapinile,Kili Petchu Ketkava (A Blinder Of A Tune From Ir !!),,,,Medium
+604,Mayamalawagowlai,Sollaal Aditha Sundari,Chinna Kounder (Touches Dha2 Slightly),,,,Medium
+605,Mayamalawagowlai,Sorgathil Nikka Nikka,Rajasthan,,,,Medium
+606,Mayamalawagowlai,Thayundu Thandhaiyundu,Kovil Kaalai (A Soul Rendering Song),,,,Medium
+607,Mayamalawagowlai,The Third Track Of The Album,How To Name It,,,,Medium
+608,Mayamalawagowlai,Thennangeetrum Thendral Kaatrum,Mudivilla Arambam,,,,Medium
+609,Mayamalawagowlai,Ullukkulla Chakaravarthi,Panakkaaran,,,,Medium
+611,Mayamalawagowlai,Vaanam Idi Idikka,Unna Ninaichen Paatu Padichen,,,,Medium
+612,Mayamalawagowlai,Varaverkumo En Raajakumari,Pachakuthira,,,,Medium
+613,Mayamalawagowlai,Vayasu Vandha Valibanukku,En Mana Vaanil,,,,Medium
+614,Mayamalawagowlai,Yamaho Nee Yama,Jagadeka Veerudu Athiloka Sundari (Telugu),,,,Medium
+602,Mayamalawagowlai,Samigale Samigale Sondha Kadhai Kelunga,En Purushan Thaan Enakku Mattum Thaan,,,,Medium
+588,Mayamalawagowlai,Manjal Nilavukku,Mudhal Iravu,,,,Medium
+610,Mayamalawagowlai,Uyirae Uyirae Urugadhae,Oruvar Vaazhum Aalayam,,,,Medium
+586,Mayamalawagowlai,Madhura Marikozhundhu,Enga Ooru Patukaran,,,,Medium
+560,Mayamalawagowlai,Alla Un Aanai Padi,Chandralekha,,,,Medium
+561,Mayamalawagowlai,Andhi Varum Neram,Mundhanai Mudhichu,,,,Medium
+562,Mayamalawagowlai,Anthapurathil Oru Maharani,Deepam,,,,Medium
+563,Mayamalawagowlai,Appanendrum Ammaiendrum,Guna,,,,Medium
+564,Mayamalawagowlai,Aradi Suvaru Dhaan,Idhu Namma Bhoomi (Haunting Charanams !!),,,,Medium
+587,Mayamalawagowlai,Manadhil Urudhi Vendum,Manadhil Urudhi Vendum,,,,Medium
+565,Mayamalawagowlai,Arumb Arumba Saram Thodutha,Chinnathayi,,,,Medium
+566,Mayamalawagowlai,Chinna Kuyile Kuyile,Manasellam,,,,Medium
+567,Mayamalawagowlai,En Thayenum Koyilai,Aranmanai Kili,,,,Medium
+568,Mayamalawagowlai,Enna Paatu Paada,Chakkalathi (Naadhanamakriya?),,,,Medium
+569,Mayamalawagowlai,Enakinai Yaaringe,Ivan,,,,Medium
+571,Mayamalawagowlai,Enge Naan Kanbaen,Sadhanai,,,,Medium
+572,Mayamalawagowlai,Gnana Thangamae,Raajagopuram,,,,Medium
+570,Mayamalawagowlai,Enga Ooru Laila Laila,Karagaatakari,,,,Medium
+574,Mayamalawagowlai,Ilam Kadhal Veenai,Vellai Pura Onru,,,,Medium
+585,Mayamalawagowlai,Machchi Mannaru,Ennuyir Thozhan  (A Versatile Composition !),,,,Medium
+584,Mayamalawagowlai,Maanin Iru Kangal Konda,Maapillai (Don’T Miss The First 6 Seconds Of Prelude),,,,Medium
+583,Mayamalawagowlai,Kuyila Pudichu,Chinnathambi,,,,Medium
+582,Mayamalawagowlai,Kottu Kali Kottu,Chinnavar,,,,Medium
+573,Mayamalawagowlai,Idho Idho En Nenjile,Vattathukkul Sathuram,,,,Medium
+580,Mayamalawagowlai,Kanava Idhu Unmaya,Aruvadai Naal,,,,Medium
+581,Mayamalawagowlai,Kenu Mayangeeyo,Kallukondoru Pennu (Malayalam),,,,Medium
+578,Mayamalawagowlai,Kalise Prathi,Aalapana  (Telugu),,,,Medium
+577,Mayamalawagowlai,Kaadhal Maharani,Kaadhal Parisu,,,,Medium
+576,Mayamalawagowlai,Kaadhal Kavithaigal,Gopura Vasalile,,,,Medium
+575,Mayamalawagowlai,Jigi Jigi,Chettu Kindha Pleader  (Telugu),,,,Medium
+579,Mayamalawagowlai,Kan Parum Devi,Kokkarako,,,,Medium
+624,Mohana Kalyani,Paattu Thalaivan Padinal,Idhaya Kovil (Watch Out For The Hamsadhwani Phrase!!),,,,Medium
+627,Mohana Kalyani,Thirutheril Varum Silayo,Naan Vaazha Vaippen,,,,Medium
+626,Mohana Kalyani,Thenmalli Poove,Thyagam (Trace Of Maand In Charanams),,,,Medium
+625,Mohana Kalyani,Paarijaadha Poove,Ellame En Raasathan,,,,Medium
+623,Mohana Kalyani,Oh Party Nalla Party Dhaan,Idhayam,,,,Medium
+622,Mohana Kalyani,Naan Sirithaal Deepavali,Nayagan,,,,Medium
+620,Mohana Kalyani,Krishna Nuvvu,Shivshankar (Telugu),,,,Medium
+619,Mohana Kalyani,Kelada Manidava,Bharathi,,,,Medium
+618,Mohana Kalyani,Kaalai Thendral Paadi Varum,Uyarndha Ullam (Uses D1 In Charanam !!),,,,Medium
+617,Mohana Kalyani,Geetha Sangeetha,Anbae Sangeetha,,,,Medium
+616,Mohana Kalyani,Enadhu Udalum Uyirum Porulum,Raajavin Ramanamaalai,,,,Medium
+621,Mohana Kalyani,Mudhal Mutham Mogam,Pudhir,,,,Medium
+660,Mohanam,Meluru Maaman Melaga Pakuraan,Makkal Aatchi,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+671,Mohanam,Oru Ragam Padalodu,Anandha Ragam,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+670,Mohanam,Oru Kanam Oru Yugamaaga,Nadodi Thendral,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+669,Mohanam,Om Kaarade Kande,Nammura Mandaara Hoove (Kannada),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+668,Mohanam,"Oilaaley Hoiyaarae Hoiyee, Yamuna Theerey",Yaathra (Malayalam),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+667,Mohanam,Ninnukkori Varnam,Agni Nakshatiram,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+664,Mohanam,Naan Undhan Thaayaga Vendum,Ullasa Paravaigal,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+665,Mohanam,Nilavu Thoongum Naeram,Kunkumachimizh (Diluted With Kalyani),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+672,Mohanam,Oru Thanga Rathathil,Dharma Yudham,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+663,Mohanam,Naan Thanga Roja,Time,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+662,Mohanam,Naan Oru Ponnoviyam,Kannil Theriyum Kadhaigal,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+661,Mohanam,Naal Thorum Endhan Kannil,Dhevadhai,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+666,Mohanam,Ninnukkori,Gharshana (Telugu),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+673,Mohanam,Oru Vaarthai Pesu,"Unknown (If Someone Knows The Film Name, Tip Me)",,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+677,Mohanam,Rela Rela Rela,Anumaanaspadam (Telugu) (A Celebration Of Music),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+675,Mohanam,Pottu Vacha Kiliye,Poovarasan,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+676,Mohanam,Raadhe En Raadhe,Japaanil Kalyaanaraaman,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+678,Mohanam,Saada Maada Pechukellam,Karagaatakari,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+679,Mohanam,Thamtha Theemtha,Pagalil Oru Nilavu,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+680,Mohanam,Vaan Pole Vannam,Salangai Oli,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+681,Mohanam,Vandhadhe,Kizhakku Vaasal,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+682,Mohanam,Varuga Varuga Ezhilae,Pondaatti Thevai,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+683,Mohanam,Varuga Varugavae,Manaivi Ready,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+684,Mohanam,Vayasu Pulla Vayasu Pulla,Annan,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+685,Mohanam,Ve Vela Gopemella,Saagar Sangamam (Telugu),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+686,Mohanam,Ve Velaa Varnalaa,Sankeerthana (Telugu),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+687,Mohanam,Veene Veene Veenakkunje,Aalolam (Malayalam),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+688,Mohanam,Vel Muruganukku Mottai Onnu,Puyal Paadum Pattu,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+674,Mohanam,Poovil Vandu,Kadhal Oviyam,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+659,Mohanam,Meenkodi Theril,Karumbuvil,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+653,Mohanam,Kekaliyo Kekaliyo,Kasthuri Maan,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+657,Mohanam,Malligai Malai Katti,Pudhiya Ragam (Mohanam For A Sad Mood!),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+658,Mohanam,Manjum Kulirum,Sandhyakku Virinja Poovu (Malayalam),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+629,Mohanam,Aandaalalo Namo,Jagadeka Veerudu Athiloka Sundari (Telugu),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+630,Mohanam,Aasai Nenjin Kanavugal Valarpirai,Mugathil Mugam Paarkalam,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+631,Mohanam,Aathoram Kaathaada,Engeyo Kaeta Kural,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+632,Mohanam,Aattirambile Kumbile,"Kaalapaani (Malayalam) (Uses M2, Ni3 Of Kalyani)",,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+633,Mohanam,Abc Nee Vaasi,Oru Kaidiyin Dairy (Watch The Rhythm Patterns),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+634,Mohanam,Achachacho Penmai Poovache,Udhayam,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+635,Mohanam,Adi Elachi Elachi Kozhaichi Kozhaichi,Maharasan,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+636,Mohanam,Azhagaana Nam Paandi Naatinilae,Pudhupatti Ponnuthaayi,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+637,Mohanam,Athe Neevu,Abhinandana  (Telugu),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+638,Mohanam,Cheri Yashodakku,Swarna Kamalam (Telugu),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+639,Mohanam,Enakkoru Magan Pirappan,Annanukku Je,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+640,Mohanam,Enga Maharanikku,Thalaimurai,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+641,Mohanam,Geetham Sangeetham,Kokkarako,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+628,Mohanam,Aalolam Kili Thopilae,"Siraichaalai (Uses M2, Ni3 Of Kalyani)",,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+643,Mohanam,Gundumalli Gundumalli,Solla Marandha Kadhai,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+656,Mohanam,Kurinji Malarin,Azhaghe Unnai Aaradhikiren,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+655,Mohanam,Kukku Koo Koovum,Valli,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+654,Mohanam,Ketkudhadi Koo Koo,Kattumarakaaran,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+651,Mohanam,Kasthoori Manae,Pudhumai Penn (Diluted With Kalyani),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+650,Mohanam,Kannan Oru Kai Kuzhandhai,Badrakaali (Uses Ni3 In Avarohanam),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+652,Mohanam,Kathirundhen Thaniye,Rasamagan,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+648,Mohanam,Janapadha Ammodu,Usire (Kannada),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+647,Mohanam,Iru Paravaigal Malai Muzhuvadhum,Niram Maradha Pookal,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+646,Mohanam,Indha Poovukoru Arasan,Poovarasan,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+645,Mohanam,Indha Ammanukku,Deiva Vaaku (Appadi Podu !!!),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+644,Mohanam,Idhayam Oru Kovil,Idhayakovil,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+649,Mohanam,Kanmaniye Kaadal,Aarilirindu Arubathu Varai,,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+642,Mohanam,Goro Gorokana,Boomi Geetha (Kannada),,S R2 G3 P D2 S,S D2 P G3 R2 S,Medium
+692,Naadhanamakriya,Veetukoru Maganapola,Ponnu Oorukku Pudhusu,,,,Medium
+689,Naadhanamakriya,Endhan Pon Vannamae,Naan Vaazha Vaippen,,,,Medium
+690,Naadhanamakriya,Kannin Maniyae Kannin Maniyae,Manadhil Urudhi Vendum,,,,Medium
+691,Naadhanamakriya,Oor Ora Pogum Intha Udambu,Kaakai Chiraginile (What A Masterpiece !!),,,,Medium
+741,Naatai,Mahaganapathim,Sindhu Bhairavi,,,,Medium
+742,Naatai,Unai Thedum Ragam Idhu,Pon Megalai,,,,Medium
+693,Nagandhini,Alapanai,Ethanai Konam Ethanai Parvai,,,,Medium
+694,Nagandhini,Varudhu Varudhu Ilam Kaatru,Brahma,,,,Medium
+695,Nalinaganthi,Endhan Nenjil Neengaadha,Kalaignan,,,,Medium
+721,Natabhairavi,Maniye Mani Kuyile,Nadodi Thendral,,,,Medium
+722,Natabhairavi,Muthirai Ippodhu Kuthidu Thappaadhu,Uzhaipaali,,,,Medium
+723,Natabhairavi,Neramidhu Neramidhu Nenjiloru Paatezhudha,Rishimoolam,,,,Medium
+724,Natabhairavi,Oh Butterfly Butterfly,Meera (Touches D2 In Charanams),,,,Medium
+725,Natabhairavi,Oorellam Samiyaga,Deiva Vaaku,,,,Medium
+726,Natabhairavi,Oorurangum Nerathil,Kanna Unai Thedugiren,,,,Medium
+727,Natabhairavi,Oru Naal,Devadai,,,,Medium
+728,Natabhairavi,Panam Mattum Vazhkaiya,Solla Marandha Kadhai,,,,Medium
+729,Natabhairavi,Pani Vizhum Iravu,Mouna Ragam,,,,Medium
+731,Natabhairavi,Putham Pudhu Kalai,Alaigal Oiyvathilai,,,,Medium
+732,Natabhairavi,Raaku Muthu Raaku,Yejamaan,,,,Medium
+733,Natabhairavi,Sangeetha Megam,Udhaya Geedham,,,,Medium
+734,Natabhairavi,Sola Ilankuyilae Azhaga Tholirangum Kaviriyae,Annanukku Je,,,,Medium
+735,Natabhairavi,Solli Vidu Vellinilavae,Amaidhi Padai,,,,Medium
+736,Natabhairavi,Then Madurai Vaigai Nadhi,Dharmathin Thalaivan,,,,Medium
+737,Natabhairavi,Then Paandi Seemayilae,Nayagan,,,,Medium
+738,Natabhairavi,Thulli Thirindhadhoru,Endrum Anbudan (A Staggeringly Simple Classic),,,,Medium
+740,Natabhairavi,Vizhiyilae Malarndhadhu,Bhuvana Oru Kelvikkuri (A Classic Song),,,,Medium
+720,Natabhairavi,Mandram Vandha Thendrallukku,Mouna Ragam (Touches Ni3 And D2),,,,Medium
+730,Natabhairavi,Pudhu Rootula Thaan,Meera,,,,Medium
+719,Natabhairavi,Manadaase Hakkiyaagi,Nammura Mandaara Hoove (Kannada),,,,Medium
+739,Natabhairavi,Unna Nambi Nethiyilae,Chittukkuruvi,,,,Medium
+717,Natabhairavi,Maama Un Ponna Kodu,Rajadhi Raaja,,,,Medium
+696,Natabhairavi,Aa Devarilli Maaguvaa,Boomi Geetha (Kannada),,,,Medium
+698,Natabhairavi,Aasaiya Kathula Thoodhu Vittu,Johny,,,,Medium
+718,Natabhairavi,Madai Thiranthu,Nizhalgal,,,,Medium
+699,Natabhairavi,Aathu Metula,Gramathu Athiyaayam,,,,Medium
+700,Natabhairavi,Aattin Karayorathe,Rasathanthram (Malayalam),,,,Medium
+701,Natabhairavi,Andhi Mazhai Megam,Nayagan,,,,Medium
+702,Natabhairavi,Azhaghi Vara Soru Thara,Uliyin Osai,,,,Medium
+703,Natabhairavi,En Iniya Pon Nilaave,Moodupani,,,,Medium
+704,Natabhairavi,Endhan Kannil Yezhulangal,Guru,,,,Medium
+705,Natabhairavi,Engirundho Ilamkuyilin,"Brahma (Charanam Touches Ni3, A Typical Ir Move !)",,,,Medium
+697,Natabhairavi,Aaraaro Paattu Paada,Pondaatti Thevai (What A Gem),,,,Medium
+707,Natabhairavi,Hey Indhira Oorvasiya,Aduthaathu Albert,,,,Medium
+708,Natabhairavi,Ilamaikor Vegam Undu,Oru Naal Oru Kanavu,,,,Medium
+709,Natabhairavi,Ilampani Thuli Vizhum Neram,Aaradhanai (Trace Touches Of Ni3),,,,Medium
+710,Natabhairavi,Indha Kadal Seiyum Velai,Kangalin Vaarthaigal,,,,Medium
+711,Natabhairavi,Kaalai Nera Raagamae,Raasave Unna Nambi,,,,Medium
+712,Natabhairavi,Kaatukili Kaatukili,Karagaatakari,,,,Medium
+713,Natabhairavi,Kaatule Kambangaatile,Raajakumaran  (A Casually Set Sweet Tune),,,,Medium
+714,Natabhairavi,Kaadhal Neethaana,Time,,,,Medium
+715,Natabhairavi,Kannae Navamaniye Unna Kaanaama,En Bommukutty Ammaavukku,,,,Medium
+706,Natabhairavi,Hey I Love You,Unnai Naan Sandhithen (Music Far Ahead Of Its Times),,,,Medium
+716,Natabhairavi,Kannan Vandhu Paadugindraan,Rettai Vaal Kuruvi,,,,Medium
+743,Natakapriya,Nenje Gurunadharin,Mogamull,,,,Medium
+744,Nayaki,Varanam Aaayiram,Keladi Kanmani,,,,Medium
+746,Neelambari,Varam Thantha Samikku,Sippikkul Muthu,,,,Medium
+747,Neelambari,Vatapathra Sayikki,Swathi Muthyam (Telugu),,,,Medium
+745,Neelambari,Anbe Naan Annan,Naan Sigappu Manithan,,,,Medium
+748,Neethimathi,En Kanavinai Kel Nanba,Dhesiya Geetham,,,,Medium
+749,Neethimathi,Oh Prema Devathe,Gulabi (Kannada),,,,Medium
+750,Neethimathi,Ulagame Nee Manidhanai,Ivan,,,,Medium
+751,Paavani,Paartha Vizhi Paarthabadi,Guna,,,,Medium
+765,Pahadi,Ninaithadhu Yaaro Needhanae,Paatukoru Thalaivan,,,,Medium
+774,Pahadi,Yethetho Yennam Valarthen,Punnagai Mannan,,,,Medium
+773,Pahadi,Vaigai Nadhiyoram,Rickshaw Maama,,,,Medium
+772,Pahadi,Vaan Megangale,Puthiya Vaarpugal,,,,Medium
+771,Pahadi,Vaa Vennila Unnaithaanae,Mella Thirandhadhu Kadhavu,,,,Medium
+770,Pahadi,Unnai Thedi Thedi,Konji Pesalam,,,,Medium
+769,Pahadi,Seer Kondu Vaa,Naan Paadum Padal,,,,Medium
+768,Pahadi,Poo Poothadhu Thottam Yaar Pottadhu,Mumbai Express,,,,Medium
+767,Pahadi,Pogudhae Pogudhae,Kadalora Kavidhaigal,,,,Medium
+766,Pahadi,Ore Naal Unai Naan,Ilamai Oonjalaadugiradhu,,,,Medium
+764,Pahadi,Nilavondru Kandaen En Jannalil,Kairaasikaaran,,,,Medium
+761,Pahadi,Mounamaana Neram,Salangai Oli,,,,Medium
+762,Pahadi,Nadu Saamathilae Saamandhi Poo,Thirumathi Pazhanichamy,,,,Medium
+763,Pahadi,Nethu Varaikkum,Kasthuri Maan,,,,Medium
+760,Pahadi,Mellaiyonnu Paadi,Manasinakkare (Malayalam),,,,Medium
+759,Pahadi,Meghame Thoodhaagha Vaa,Kannan Oru Kaikuzhandhai,,,,Medium
+758,Pahadi,Marugo Marugo Marugayi,Vetri Vizha,,,,Medium
+757,Pahadi,Indha Maan Undhan Sontha Maan,Karagaatakaran,,,,Medium
+756,Pahadi,Ennodu Paatu Paadungal,Udhaya Geedham,,,,Medium
+755,Pahadi,Engae En Jeevanae,Uyarndha Ullam,,,,Medium
+754,Pahadi,Chola Vala Naadu,Uliyin Osai,,,,Medium
+753,Pahadi,Chinna Chinna Solleduthu,Raajakumaran (Class Song),,,,Medium
+752,Pahadi,Amma Sonna Aariraro,Solla Marandha Kadhai,,,,Medium
+782,Panthuvarali,Rojavai Thaalattum Thendral,Ninaivellam Nithya,,,,Medium
+781,Panthuvarali,Raguvara Nannu,Isai Paadum Thendral,,,,Medium
+780,Panthuvarali,Piraiye Piraiye,Pithamagan,,,,Medium
+779,Panthuvarali,Modern Concerto (Title Track),Raja Paarvai (Mind Boggling !!),,,,Medium
+783,Panthuvarali,The Sixth Track Of The Album,How To Name It,,,,Medium
+777,Panthuvarali,Kaadhal Ennum Kaaviyam,Vattathukkul Sathuram,,,,Medium
+776,Panthuvarali,Gumthalakidi Gumma Gummandhan,Ashwamedham (Telugu),,,,Medium
+775,Panthuvarali,Enna Varam Vendum,Nanthavana Theru,,,,Medium
+778,Panthuvarali,Kangalukkul Ennai Ezhudhu,Thandhuvitten Ennai,,,,Medium
+784,Patdheep,Kanna Varuvaaya,Manadhil Urudhi Vendum,,,,Medium
+785,Patdheep,Oh Endhan Vaazhvile,Unakaagavae Vazhgiren,,,,Medium
+786,Patdheep,Oru Kaaviyam Arangerum Neram,Aruvadai Naal (Heavenly !!),,,,Medium
+787,Patdheep,Padum Vanambadi,Naan Padum Padal,,,,Medium
+788,Pinakini,Naa Andhang Pirithi,Prema Raaga Haadu Gelathi (Kannada),,,,Medium
+789,Poornachandrika,Maanida Sevai Throgama,Unnal Mudiyum Thambi,,,,Medium
+794,Punnagavarali,Aadum Paambirukkudhu,Illam,,,,Medium
+793,Punnagavarali,Aadidum Peigala,Aduthaathu Albert,,,,Medium
+790,Puriya Dhanashri,Ninnai Charan Adaindhen,Bharathi,,,,Medium
+791,Pushpalathika,Masi Maasam Aalana Ponnu,Dharmadurai,,,,Medium
+792,Pushpalathika,Mella Mella Ennai Thottu,Vaazhkai,,,,Medium
+795,Ragavardhini,Abinayam Kaatugindra,Uliyin Osai,,,,Medium
+796,Ragavardhini,Manam Kanindhu,Mandolin Srinivas Plays Ilaiyaraaja'S Classics,,,,Medium
+797,Ragavardhini,Pattu Viral Thottuvittadhal,"Dhanush (Scale, Rather Than The Raga)",,,,Medium
+798,Ragavardhini,Sabdhamayi,Sooryan (Malayalam),,,,Medium
+799,Ragavardhini,Unai Kaanum Bodhu,"En Mana Vaanil (Scale, Rather Than The Raga)",,,,Medium
+800,Ramani,Andhi Mazhai Pozhigiradhu,Raaja Paarvai,,,,Medium
+802,Ramapriya,Thom Thom,Oorellam Un Paatu (Don’T Miss This Song),,,,Medium
+801,Ramapriya,Kamalam Paada Kamalam,Moga Mull,,,,Medium
+803,Ranjani,Kadhal Deepam Onru,Kalyana Raman,,,,Medium
+805,Rasikapriya,Sangeethame,Kovil Pura,,,,Medium
+804,Rasikapriya,Aganthayil Aduvadha,"Uliyin Osai (Charanams, Shruthibedham To M.M.Gowlai)",,,,Medium
+806,Rasikaranjini,Amuthae Thamizhae,Kovil Pura,,,,Medium
+807,Rasikaranjini,Ethilum Ingu Iruppan,Bharathi,,,,Medium
+808,Rasikaranjini,Nila Kuyilae Unnodu Naan,Magudi,,,,Medium
+809,Rathnaganthi,Kungumam Manjalukku,Enga Mudalali,,,,Medium
+810,Reethigowlai,Chinna Kannan,Kavikuyil,,,,Medium
+811,Reethigowlai,Meetatha Oru Veenai,Poonthottam,,,,Medium
+812,Reethigowlai,Raman Kadhai Kelungal,Sippikkul Muthu,,,,Medium
+813,Reethigowlai,Thalaiyai Kuniyum,Oru Odai Nadhiyagirathu,,,,Medium
+814,Revagupthi,Kozhi Koovum Nerathile,Vanna Vanna Pookal,,,,Medium
+815,Revathi,Adadaa Adangaadha Arakka Kaigalil,Pithamagan,,,,Medium
+816,Revathi,Amma Azhage,Kadhal Oviyam,,,,Medium
+817,Revathi,Durga Durga,Priyanka,,,,Medium
+818,Revathi,Kanavu Ondru Thondrudhe,Oru Odai Nadhiyagirathu,,,,Medium
+819,Revathi,Sangeetha Jaathi Mullai,Kadhal Oviyam (Starts With Alaapanai In Sivaranjani),,,,Medium
+821,Rishabhapriya,Kaali Perungaya Dabba,Mandhira Punnagai,,,,Medium
+820,Rishabhapriya,S R2 G2 M2 P D1 N2 S I S N2 D1 P M2 G2 R2 S,,,,,Medium
+828,Rishivani,Kaamakshi Karuna Vilasini,Ilaiyaraajavin Geethanjali,,,,Medium
+826,Rishivani,Sumam Prathi Sumam Sumam,Maharishi (Telugu),,,,Medium
+825,Rishivani,Raja Magal Rojal Magal,Pillai Nila,,,,Medium
+827,Rishivani,Vaaraayo Unakke Saran Naangale,Athma,,,,Medium
+823,Rishivani,Ilaiya Nilave Ilaiya Nilave,Ponnu Veetukkaran,,,,Medium
+822,Rishivani,Ennadhaan Sugamo Nenjile,Maapillai,,,,Medium
+824,Rishivani,Nilavin Amudhu Ozhuga,Ilaiyavan,,,,Medium
+829,Rukmambari,Sri Siva Sudha,Karpoora Mullai,,,,Medium
+830,Rukmambari,Sri Siva Sudha,Ente Sooryaputhrikku (Malayalam),,,,Medium
+831,Saavithri,Antha Randoi Randi,Chinnabbayi (Telugu),,,,Medium
+832,Saavithri,Chithira Sevvaanam Sirikka Kandaen,Kaatrinile Varum Geetham,,,,Medium
+833,Saavithri,Pudhiya Poovidhu,Thendralae Ennai Thodu,,,,Medium
+834,Saindhavi,Chinna Chinna Rathiname,Sakthivel,,,,Medium
+835,Sallapam,Isayarasi Ennaalum,Thai Mookaambigai,,,,Medium
+836,Samudhrapriya,Jal Jal Jal Salangai Kulunga Oru Devadhai Vanthaal,Ponnuketha Purushan,,,,Medium
+837,Samudhrapriya,Kannama Kaadhal Ennum Kavidhai Solladi,Vanna Vanna Pookal,,,,Medium
+839,Saramathi,Mari Mari Ninnae,Sindhu Bhairavi (Saint Thyagaraja Used Kambhodhi !),,,,Medium
+838,Saramathi,Paadariyen Padipariyen,Sindhu Bhairavi,,,,Medium
+840,Saranga,Kaadhalil Maatamal,Parvathi Ennai Paradi (What A Beauty),,,,Medium
+841,Saranga,Oru Dhevadhai Vandhadhu,Naan Sonnadhe Sattam,,,,Medium
+842,Saranga Tharangini,Shri Mathru Bhutheshwari,Guru Ramana Geetham,,,,Medium
+843,Saranga Tharangini,Isaiyil Thodangudhamma,Hey Ram,,,,Medium
+844,Saranga Tharangini,Sorgame Endralum,Ooru Vittu Ooru Vandhu,,,,Medium
+845,Saranga Tharangini,Thendral Vandhu Ennai Thodum,Thendrale Ennai Thodu,,,,Medium
+854,Sarasangi,Thaa Thanthana Kummi Kotti,Adhisaya Piravi,,,,Medium
+853,Sarasangi,Rajanodu Rani,Sathi Leelavathi (Gripping Fusion Of East & West),,,,Medium
+852,Sarasangi,Pudhusu Pudhusu,Manidha Jaathi,,,,Medium
+851,Sarasangi,Muthu Natraamam,Thiruvasagam In Symphony,,,,Medium
+847,Sarasangi,Endrendrum Aanandame,Kadal Meengal,,,,Medium
+849,Sarasangi,Meenamma Meenamma,Rajathi Raja (Electric Bgms !!),,,,Medium
+848,Sarasangi,Malligaye Malligaye,Periya Veetu Pannakaran (Don’T Miss The Prelude),,,,Medium
+846,Sarasangi,Ellorum Sollum Pattu,Marubadiyum,,,,Medium
+850,Sarasangi,Muthu Muthu,Periya Veetu Pannakaran,,,,Medium
+855,Saraswathi,Veena Vani,Pon Megalai,,,,Medium
+856,Senchuruti,Aatukkutti Muttai Ittu,16 Vayadhinile,,,,Medium
+857,Senchuruti,Anbu Enum Oru Mandhiram,Sri Raghavendra,,,,Medium
+858,Senchuruti,Kaadhalichu Paaru Kiliyae,Thanga Thaamaraigal,,,,Medium
+859,Senchuruti,Kaanankuruvikki Kalyanamaa,Vaazha Ninaithal Vaazhalaam,,,,Medium
+860,Senchuruti,Vanna Vanna Solleduthu,Senthamizh Paatu,,,,Medium
+861,Senchuruti,Vethala Vethala Vethalayo,Rosappu Ravikkakaari,,,,Medium
+904,Shankarabharanam,Ponmane Sangeetham,Naan Sigappu Manithan,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+921,Shankarabharanam,Yezhu Kundrudai,Ezhumalaiyan Magimai,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+902,Shankarabharanam,Pattu Poovae Mettu Paadu,Chembaruthi,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+901,Shankarabharanam,Pala Poo Mazha,Kochu Kochu Santhoshangal (Malayalam),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+900,Shankarabharanam,Pakkathile Nee Irundhum,Chinna Thurai,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+894,Shankarabharanam,Nila Kaayum Neram Saranam,Chembaruthi,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+898,Shankarabharanam,Paakuradhum Moraikaradhum,Alai Osai,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+897,Shankarabharanam,Paadi Vaa Thendrale,Kokkarako (Listen To This When Your Chips Are Down!),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+896,Shankarabharanam,Paadha Kolusu Paattu,Thirumathi Pazhanichamy (Maand Touches?),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+895,Shankarabharanam,Onnu Rendu Moonu Naalu,Dharmadurai,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+905,Shankarabharanam,Poongatrilae,Paattu Paadava,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+899,Shankarabharanam,Pacha Mala Poovu,Kizhakku Vasal,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+906,Shankarabharanam,Poove Ilaiya Poove,Kozhi Koovudhu (Timeless Fusion Classic),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+893,Shankarabharanam,Nethu Vara Yaaroda Nee Irundhaalum,Vaazhga Valarga,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+908,Shankarabharanam,Pudhucheri Katcheri,Singaravelan,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+909,Shankarabharanam,Raajakumara Raajakumara,Raajakumaran,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+910,Shankarabharanam,Saami Kodutha Varam,Poomani,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+911,Shankarabharanam,Singaara Pennorothi,Oruvar Vaazhum Aalayam,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+912,Shankarabharanam,Solai Malare,Paatu Vaathiyar,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+913,Shankarabharanam,Sutti Sutti Un Vaala Konjam Surutti Kolladi,Chinna Kounder (Mixes Ni2),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+914,Shankarabharanam,Thenae Thenpandi Meenae,Udhaya Geetham,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+915,Shankarabharanam,Vachaalum Vaikaama,Micheal Madana Kamarajan (Awesome Number),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+916,Shankarabharanam,Vachikkava Unna Mattum,Nallavanukku Nallavan (Hip From The Word Go !!),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+917,Shankarabharanam,Vaasamalli Poovu Poovu,Sevvandhi (Kalyani Touches Too),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+918,Shankarabharanam,Velanjirukku Solakaadu,Raajagopuram,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+919,Shankarabharanam,Vizhiyil Vizhi Modhi,Kadhalukku Mariyadhai,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+920,Shankarabharanam,Yerikkara Poongatre,Thooral Ninnu Pochu,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+907,Shankarabharanam,Pudhu Maapillaikki,Aboorva Sagotharargal,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+892,Shankarabharanam,Nan Yerikarai Melirundhu,Chinnathayi (Mixes Ni2 Brilliantly),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+903,Shankarabharanam,Podi Nadaiya Poravarae,Kadalora Kavidhaigal (Slightly Touches D1 & N2),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+890,Shankarabharanam,Nalla Velli Kizhamaiyile,Sakkarai Thevan,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+891,Shankarabharanam,Nammava Thappu Pannina,Aandan Adimai,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+862,Shankarabharanam,Aadungal Padungal,Guru,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+863,Shankarabharanam,Ada Veetukku Veetukku,Kizhakku Vaasal,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+864,Shankarabharanam,Alapol Velapol,Ejaman,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+865,Shankarabharanam,Anjali Anjali,Anjali (A Majestic Song),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+866,Shankarabharanam,Annan Avan Kannan Illae,Ponnu Veetukkaran,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+868,Shankarabharanam,Appaavukku Paiyyan Vandhu,Chinna Kuyil Paadudhu,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+869,Shankarabharanam,April Mayilae Pasumayae Illae,Idhayam,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+870,Shankarabharanam,Azhaghu Aayiram,Ullasa Paravaigal,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+871,Shankarabharanam,Chinna Maharaani Sirikkum Sirippu,Kutty,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+872,Shankarabharanam,Dhillubar Jaane,Kalaignan,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+873,Shankarabharanam,En Pathara Maathu,En Bommukutty Ammaavukku (Lovely Number In The Raga),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+874,Shankarabharanam,Enga Ooru Kaadhala Pathi,Pudhu Paattu,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+875,Shankarabharanam,Endhu Paranjaalum,Achuvinte Amma (Malayalam),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+867,Shankarabharanam,Apdi Pakaradhunna Venam,Ivan (Prelude / Interludes Use Anya Swaras),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+877,Shankarabharanam,Kanmani Anboda,Guna,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+876,Shankarabharanam,Germaniyin Sendhaen Malarae,Ullasa Paravaigal,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+889,Shankarabharanam,Naadirukkum Nelamayile,Ullam Kavarntha Kalvan (Pure Delight To The Ears),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+888,Shankarabharanam,Mutham Endral Ennavendru,Paatu Vaathiyar,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+887,Shankarabharanam,Manjal Neerattu,Illam,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+886,Shankarabharanam,Mamaavukku Kudumma Kudumma,Punnagai Mannan (Intricate Composition),29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+884,Shankarabharanam,Malai En Vedhanai Kootuthadi,Sethu,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+885,Shankarabharanam,Malayala Karaiyoram,Rajadhi Raaja,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+883,Shankarabharanam,Indha Minminikki Kannil Oru,Sigappu Rojaakal,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+882,Shankarabharanam,Indha Kaadhal Vandhu Paduthum Paadu,Vaa Vaa Vasandhamae,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+881,Shankarabharanam,Kuzhaloodhum Kannanukku,Mella Thirandhadhu Kadhavu,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+880,Shankarabharanam,Konjam Thira Konjam Thira,Oru Naal Oru Kanavu,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+879,Shankarabharanam,Kasthoori Pottu En Kadhalikku,Konji Pesalam,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+878,Shankarabharanam,Kaattu Vazhi,Adhu Oru Kana Kaalam,29.0,S R2 G3 M1 P D2 N3 S,S N3 D2 P M1 G3 R2 S,High
+930,Shanmugapriya,Thakida Thathimi,Salangai Oli,,,,Medium
+933,Shanmugapriya,The First Track Of The Album,Nothing But Wind,,,,Medium
+932,Shanmugapriya,The Fifth Track Of The Album,How To Name It,,,,Medium
+931,Shanmugapriya,Tham Thana Tham Thana,Pudhiya Varpugal,,,,Medium
+934,Shanmugapriya,Vengaya Sambarum,Panner Pushpangal,,,,Medium
+929,Shanmugapriya,Thakida Thathimi,Saagar Sangamam (Telugu),,,,Medium
+923,Shanmugapriya,Kaadhal Kasakuthaiya,Aan Paavam,,,,Medium
+927,Shanmugapriya,Shiva Malli Poove,Friends (Malayalam),,,,Medium
+926,Shanmugapriya,Raajadhi Raaja Un Thandhirangal,Mannan (Prelude / Interludes Use Anya Swaras),,,,Medium
+925,Shanmugapriya,Ooru Vittu Ooru Vanthu,Karagaatakaran,,,,Medium
+924,Shanmugapriya,Majunu Allithaa Marubhoomi,Usire (Kannada),,,,Medium
+922,Shanmugapriya,Abhishega Nerathil,Azhaghe Unnai Aaradhikiren,,,,Medium
+928,Shanmugapriya,Sollayo Vaai Thiranthu,Moga Mull,,,,Medium
+937,Shree Ragam,Solam Vedhaikayile,16 Vayadhinile (A Carnatic Folk Song This !!),,,,Medium
+935,Shree Ragam,Alli Ilam Poovo,Mangalam Nerunnu (Malayalam),,,,Medium
+936,Shree Ragam,Kandaen Engum Poomagal,Kaatrinile Varum Geetham,,,,Medium
+938,Shree Ragam,Saamakozhi Koovudhamma,Ponnu Oorukku Pudhusu,,,,Medium
+939,Shyam Kalyan,Nee Oru Kadhal Sangeedham,Nayagan,,,,Medium
+940,Simmendhramadhyamam,Abinayam Kaatu,Vidiyum Varai Kaathiru,,,,Medium
+953,Simmendhramadhyamam,Saara Yeh Aalam,Shiva (Hindi),,,,Medium
+952,Simmendhramadhyamam,Paadi Thirindha En Thozhi,Kaakai Chiraginile,,,,Medium
+951,Simmendhramadhyamam,Oru Kanam Aagilum,En Arugil Nee Irundhal,,,,Medium
+950,Simmendhramadhyamam,Niyabagam Illaiyo,Priyanka,,,,Medium
+949,Simmendhramadhyamam,Nee Pournami,Oruvar Vaazhum Aalayam,,,,Medium
+948,Simmendhramadhyamam,Madhana Moha Rupa Sundari,Indru Poi Naalai Vaa,,,,Medium
+954,Simmendhramadhyamam,Thalaatum Poongaatru Naan Allava,Gopura Vasalile (A Grim Raga Bows Down To Ir'S Command),,,,Medium
+946,Simmendhramadhyamam,Idhayame Idhayame,Idhayam,,,,Medium
+945,Simmendhramadhyamam,Ennai Ketkum Kelviyai,Kasthoori Maan,,,,Medium
+944,Simmendhramadhyamam,Enai Enna Seidhai,Ivan (Ragamalika Towards The End),,,,Medium
+943,Simmendhramadhyamam,En Poove Pon Poove,Pappayude Swantham Appoose (Malayalam),,,,Medium
+942,Simmendhramadhyamam,Arul Kann Paarvai Kiaikaaho,Aanazhagan,,,,Medium
+941,Simmendhramadhyamam,Anandha Ragam,Panneer Pushpangal,,,,Medium
+947,Simmendhramadhyamam,Kaatrodu Kuzhalin,Kodai Mazhai,,,,Medium
+1002,Sindhu Bhairavi,Poovar Senni Mannan,Thiruvasagam In Symphony,,,,Medium
+1001,Sindhu Bhairavi,Poongatru Pudhidhanathu,Moondram Pirai (Touches M2 And Ga3),,,,Medium
+1000,Sindhu Bhairavi,Ponnapola Aatha,Ennai Vittu Pogaadhe (Oh A Beauty..Uses Just Avarohanam !!),,,,Medium
+999,Sindhu Bhairavi,Padhiyai Vittu Pirindha,Kaadhal Saadhi,,,,Medium
+998,Sindhu Bhairavi,Oru Sandhana Kaatukkulle,Ellame En Raasadhan,,,,Medium
+997,Sindhu Bhairavi,Oru Naalum Unai,Ejaman (A Musical Feast In Sindhubhairavi),,,,Medium
+993,Sindhu Bhairavi,Nilave Mugam Kaatu,Ejaman,,,,Medium
+995,Sindhu Bhairavi,Oh Vennilave,Aananda Kummi,,,,Medium
+994,Sindhu Bhairavi,Nilavu Paatu Nilavu Paatu,Kannukkul Nilavu,,,,Medium
+992,Sindhu Bhairavi,Nenu Veithki,Anumaanaspadam (Telugu),,,,Medium
+991,Sindhu Bhairavi,Naan Oru Sindhu,Sindhu Bhairavi,,,,Medium
+990,Sindhu Bhairavi,Muthu Mani Muthu Mani,Adharmam,,,,Medium
+1003,Sindhu Bhairavi,Pottalu Kaatula Ponnu Onnu Paarthiya,Kaadhal Saadhi,,,,Medium
+996,Sindhu Bhairavi,"Oorukkoru Katchiyum, Perukkoru Latchiyam",Ramana,,,,Medium
+1004,Sindhu Bhairavi,Punniyam Thedi Kaasikkupovar,Kaasi,,,,Medium
+1011,Sindhu Bhairavi,Then Paandi Thamizhae,Paasa Paravaigal,,,,Medium
+1006,Sindhu Bhairavi,Serndhu Vazhum Neram,Thodarum,,,,Medium
+1007,Sindhu Bhairavi,Shenbagame Shenbagame,Enga Ooru Paatukkaran,,,,Medium
+1008,Sindhu Bhairavi,Snehathin Poonchola,Pappayude Swantham Appoose (Malayalam),,,,Medium
+1009,Sindhu Bhairavi,Sola Pasungiliye,En Raasavin Manasilae,,,,Medium
+1010,Sindhu Bhairavi,Theeraadha Vilayaattu Pillai,Kaatrukkenna Veli,,,,Medium
+989,Sindhu Bhairavi,Muthu Mani Maala,Chinna Kounder (You May Meditate Over This Song),,,,Medium
+1012,Sindhu Bhairavi,Thendral Vandhu Theendum Bodhu,Avatharam,,,,Medium
+1013,Sindhu Bhairavi,Thol Mela Thol Mela,Poomani (Uses Ga3),,,,Medium
+1014,Sindhu Bhairavi,Valaiyosai Kala,Sathya (A Musical Celebration..Will Take Ur Breath Away. ),,,,Medium
+1015,Sindhu Bhairavi,Vellimanik Kinnathile,Dharmathin Thalaivan,,,,Medium
+1016,Sindhu Bhairavi,Vidiya Vidiya Nadanam,Idhayathai Thirudaathe,,,,Medium
+1017,Sindhu Bhairavi,Viralil Sudhi Meetava,Nandavana Theru,,,,Medium
+1018,Sindhu Bhairavi,Yaar Thoorigai,"Paaru Paru Pattanam Paaru (Really, Out Of The World)",,,,Medium
+1019,Sindhu Bhairavi,Yaetri Vaitha Kuthu Vilakku,Vellaiyathevan,,,,Medium
+1005,Sindhu Bhairavi,Ram Ram Hey Hey Ram Ram,Hey Ram,,,,Medium
+988,Sindhu Bhairavi,Maratha Vachavan Thanni Oothuvaan,Panakaaran,,,,Medium
+975,Sindhu Bhairavi,Jagada Jagada,Geethanjali (Telugu),,,,Medium
+986,Sindhu Bhairavi,Mamarathu Kuyilu,Raja Rajadhaan,,,,Medium
+987,Sindhu Bhairavi,Mani Osai Kettu,Payanangal Mudivathillai,,,,Medium
+955,Sindhu Bhairavi,Aasa Adhigam Vachu,Marubadiyum,,,,Medium
+956,Sindhu Bhairavi,Aatama Sadhiratama,Captain Prabhakaran,,,,Medium
+957,Sindhu Bhairavi,Adi Mathalatha,Mallu Veti Minor,,,,Medium
+958,Sindhu Bhairavi,Akkam Pakkam Parada,Unnal Mudiyum Thambi,,,,Medium
+959,Sindhu Bhairavi,Ammaanna Summa Illada,Thiruppumunai (Kalakkal Tune),,,,Medium
+960,Sindhu Bhairavi,Amman Kovil Kumbham Inge,Aranmanai Kili,,,,Medium
+961,Sindhu Bhairavi,Annakili Unna Theduthe,Annakili,,,,Medium
+963,Sindhu Bhairavi,Annamalai Ramanaandi,Ramana Geetham,,,,Medium
+964,Sindhu Bhairavi,Arunamalai Guru Ramana,Raajaavin Ramanamaalai,,,,Medium
+965,Sindhu Bhairavi,Bommukutty Ammavukku,En Bommukutty Ammaavukku,,,,Medium
+966,Sindhu Bhairavi,Chinna Kuyil Oru Pattu Padudhu,Chinna Kuyil Paadudhu (One Of The Best Sindhu Bhairavis),,,,Medium
+967,Sindhu Bhairavi,En Kaaviriye Kanneer Edharkku,Enga Ooru Maapilla,,,,Medium
+968,Sindhu Bhairavi,En Mana Vaanil Siragai Virikkum,Kaasi (Uses Ga3),,,,Medium
+969,Sindhu Bhairavi,Enakena Oruvarum Illamal Ponalum,Thaalatu,,,,Medium
+962,Sindhu Bhairavi,Annal Gandhi,Dhesiya Geetham,,,,Medium
+971,Sindhu Bhairavi,Enna Satham Indha Neram,Punnagai Mannan,,,,Medium
+972,Sindhu Bhairavi,Ennamma Kannu Sowkyama,Mr.Bharath,,,,Medium
+973,Sindhu Bhairavi,Eppudeppudeppudani Adigina,Nirnayam (Telugu),,,,Medium
+974,Sindhu Bhairavi,Inji Idupazhaga,Thevar Magan,,,,Medium
+985,Sindhu Bhairavi,Madha Un Kovilile,Achchaani,,,,Medium
+976,Sindhu Bhairavi,Kadalile Ezhumbura,Chembaruthi (What A Song !!),,,,Medium
+977,Sindhu Bhairavi,Kadhalile Tholvi,Chembaruthi,,,,Medium
+970,Sindhu Bhairavi,Enna Marandhalum,Kadhal Saadhi (Jam Packed With Emotion !!!),,,,Medium
+978,Sindhu Bhairavi,Kalyana Maalai Kondaadum Penne,Pudhu Pudhu Arthangal,,,,Medium
+979,Sindhu Bhairavi,Kalyana Saelai Unadhaagum Vaelai,Ambigai Neril Vandhaal,,,,Medium
+980,Sindhu Bhairavi,Karigipoyanu,Maranamridangam (Telugu),,,,Medium
+981,Sindhu Bhairavi,Konchi Karayalle,Poomukhappadiyil Ninneyum Kathu (Malayalam),,,,Medium
+982,Sindhu Bhairavi,Kutta Kutta Kuniyiran,Thanga Thaamaraigal,,,,Medium
+983,Sindhu Bhairavi,Maane Thene Katti Pudi,Udhaya Geetham,,,,Medium
+984,Sindhu Bhairavi,Machaanukku Vethala Madichi,Aalappirandhavan,,,,Medium
+1020,Sindhu Ramakriya,Sudha Maadhurya,Maragadha Veenai,,,,Medium
+1051,Sivaranjani,Velli Mani Thottil Katta,Thalaimurai,,,,Medium
+1050,Sivaranjani,Vanuyarndha Solaiyile,Idhaya Kovil,,,,Medium
+1052,Sivaranjani,Yemma Yemma Thalli Nillu,Thodarum,,,,Medium
+1049,Sivaranjani,Valli Valli Ena,Deiva Vaaku (Charanam Mostly Mohanam'S Ga3 !!),,,,Medium
+1048,Sivaranjani,Va Va Anbae,Agni Nakshatiram,,,,Medium
+1047,Sivaranjani,Unnai Thaanae,Nallavanukku Nallavan (Interludes Use Anya Swaras),,,,Medium
+1046,Sivaranjani,Unna Vitta,Manaivi Ready,,,,Medium
+1045,Sivaranjani,Solai Pushpangalae,Ingaeyum Oru Gangai,,,,Medium
+1044,Sivaranjani,Raja Raja Dhaan,Oru Oorula Oru Raajakumari,,,,Medium
+1043,Sivaranjani,Puzhayorathil,Atharvam (Malayalam),,,,Medium
+1042,Sivaranjani,Punnai Vanathu Kuyile,Muthu  Kalai (Vintage Stuff From Raja),,,,Medium
+1041,Sivaranjani,Preethisuve Preethisubha,Usire (Kannada),,,,Medium
+1040,Sivaranjani,Ponnavanippadam,Rasathanthram (Malayalam),,,,Medium
+1039,Sivaranjani,Pon Manae,Oru Kaidhiyin Dairy,,,,Medium
+1038,Sivaranjani,Penmanasu Azhamunnu,En Raasavin Manasilae,,,,Medium
+1037,Sivaranjani,Paattu Cholli Paada Cholli,Azhaghi,,,,Medium
+1023,Sivaranjani,Adhi Kaalai Nera Kanavil,Naan Sonnadhe Sattam (Touches M2 And N2),,,,Medium
+1035,Sivaranjani,Oh Priya Priya,Idhayathai Thirudaathe,,,,Medium
+1021,Sivaranjani,Abbani Tiyyani,Jagadeka Veerudu Athiloka Sundari (Telugu),,,,Medium
+1022,Sivaranjani,Adhi Emaindhi,Aradhana  (Telugu),,,,Medium
+1024,Sivaranjani,Adi Aathaadi,Kadalora Kavidhaigal,,,,Medium
+1036,Sivaranjani,Oru Aalam Poovu Athipoova,Senthooram,,,,Medium
+1026,Sivaranjani,Jaabilamma,Shivshankar (Telugu),,,,Medium
+1027,Sivaranjani,Kathirundhu,Vaideghi Kaathirundhal,,,,Medium
+1025,Sivaranjani,Ennana Paada Padutharan,Aandan Adimai,,,,Medium
+1029,Sivaranjani,Kuyil Paatu,En Raasavin Manasilae,,,,Medium
+1030,Sivaranjani,Manjal Poosum,Sakkarai Thevan,,,,Medium
+1031,Sivaranjani,Melle Melle,Apaaratha (Malayalam),,,,Medium
+1032,Sivaranjani,Naan Pooveduthu Vaikkanum,Naanum Oru Thozhilaali,,,,Medium
+1033,Sivaranjani,Needhaane Naal Thorum,Paatu Vaathiyar,,,,Medium
+1034,Sivaranjani,Neeve Amaraswarame,Gharshana (Telugu),,,,Medium
+1028,Sivaranjani,Kudagu Malai Kaatril,"Karagatakaran (Mishra Sivaranjani, So The Experts Say! )",,,,Medium
+1060,Sriranjani,Pagalile Oru Nilavinai,Amman Kovil Kizhakaale,,,,Medium
+1063,Sriranjani,Vasantha Nilave,Sooryan (Malayalam),,,,Medium
+1062,Sriranjani,Vandhadhu Vandhadhu,Kili Petchu Ketkava ( !!! How Simple Can A Tune Get?),,,,Medium
+1064,Sriranjani,Vennilavin Perai Maatrava,Ramana,,,,Medium
+1061,Sriranjani,Saami En Thaali Kodi,Shenbagame Shenbagame (A Sweet Gem In This Raga.),,,,Medium
+1059,Sriranjani,Oru Ragam Tharadha Veenai,Unnai Vaazthi Paadugiren,,,,Medium
+1055,Sriranjani,Naadham Ezhundhadhadi,Gopura Vaasalile,,,,Medium
+1057,Sriranjani,Nalladhor Veenai Seidhaey,Orae Oru Graamathile,,,,Medium
+1053,Sriranjani,Chinnanjiru Vennilavu,Endrum Anbudan,,,,Medium
+1058,Sriranjani,Oru Mandhara Poo,Chinna Jameen (Trace Usage Of Pa In Pallavi !),,,,Medium
+1056,Sriranjani,Nadha Vinodhangal,Salangai Oli (Just The Pallavi Alone Is Sriranjani),,,,Medium
+1054,Sriranjani,Kannan Nee En Isai Naadha Oviyam,Ivan,,,,Medium
+1065,Srothaswini,Jai Chiranjeeva Jagadeka Veera,Jagadeka Veerudu Athiloka Sundari (Telugu),,,,Medium
+1066,Srothaswini,Oh Vasantha Raaja,Neengal Kaettavai,,,,Medium
+1067,Srothaswini,Poojaiketha Poovidhu,Needhaana Antha Kuyil,,,,Medium
+1068,Srothaswini,Sindhiya Venmani,Poonthota Kavalkaaran,,,,Medium
+1087,Subhapanthuvarali,Vaikaraiyil,Payanangalmudivathillai,,,,Medium
+1086,Subhapanthuvarali,Vaa Veliyae Intha,Paadu Nilaavae,,,,Medium
+1085,Subhapanthuvarali,Urakka Kathudhu Kozhi,Ejamaan,,,,Medium
+1084,Subhapanthuvarali,Theerthakarai Orathile,Theertha Karaiyinile,,,,Medium
+1083,Subhapanthuvarali,Thangachi Thangachi Enge Pora,Kutty,,,,Medium
+1080,Subhapanthuvarali,Nethirundha Ulagam,Bharani,,,,Medium
+1079,Subhapanthuvarali,Moonu Mudichaala Muttala Aanen,Amman Kovil Kizhakaale,,,,Medium
+1078,Subhapanthuvarali,Kooda Porandha Selvame,Kizhakkum Merkkum (Musical Mirattal !!!),,,,Medium
+1082,Subhapanthuvarali,Thali Enbadhinge,Dhuruva Nakshathiram,,,,Medium
+1076,Subhapanthuvarali,Enna Enna Kanavu Kandayo,Valli,,,,Medium
+1077,Subhapanthuvarali,Enna Petha Aathannu,Karagaatakari,,,,Medium
+1069,Subhapanthuvarali,Ambilikkalayum,Atharvam (Malayalam),,,,Medium
+1070,Subhapanthuvarali,Aayiram Thamarai Motukkale,Alaigal Oiyvathilai,,,,Medium
+1071,Subhapanthuvarali,Alaigalil Midhakudhu,Andha Oru Nimidam (Mixes Bhavapriya),,,,Medium
+1081,Subhapanthuvarali,Shiva Karuda,Kochu Kochu Santhoshangal (Malayalam),,,,Medium
+1073,Subhapanthuvarali,Dhagamae Undanathe,Getti Melam,,,,Medium
+1074,Subhapanthuvarali,Ellorodaya Vaazhkaiyilum,Pattukkoru Thalaivan (Mixes M1),,,,Medium
+1075,Subhapanthuvarali,Enge Nimmadhi Nimmadhi,Nadigan,,,,Medium
+1072,Subhapanthuvarali,Azhakindran Madhavan,Sri Raghavendra,,,,Medium
+1136,Sudhadhanyasi,Pothi Vacha Malligai Mottu,Man Vaasanai,,,,Medium
+1135,Sudhadhanyasi,Poo Yeru Konum,Thiruvasagam In Symphony (Shifts To Samudrapriya),,,,Medium
+1134,Sudhadhanyasi,Poonthalir Aada,Panneer Pushpangal,,,,Medium
+1133,Sudhadhanyasi,Poomalai Oru Paavai Aaguma,Thangamagan (Touches Ni3 Of Srothaswini),,,,Medium
+1132,Sudhadhanyasi,Poo Poo Poo Poopootha Solai,Pudhu Nellu Pudhu Naathu,,,,Medium
+1131,Sudhadhanyasi,Poo Kumkumappoo,Rasathanthram (Malayalam),,,,Medium
+1129,Sudhadhanyasi,Paaramal Paartha Nenjam,Poonthotta Kavalkaran,,,,Medium
+1128,Sudhadhanyasi,Paadum Neram Idhudhaan,Soorasamhaaram,,,,Medium
+1127,Sudhadhanyasi,Oru Sundari Vandhaalam,Azhaghi,,,,Medium
+1125,Sudhadhanyasi,Oh Maane Maane Maane,Vellai Roja (Uses Dha2),,,,Medium
+1124,Sudhadhanyasi,Nenjukkul Poo Manjangal,Saattai Illadha Pamparam,,,,Medium
+1123,Sudhadhanyasi,Nanthaan Mapillai,Thodarum,,,,Medium
+1137,Sudhadhanyasi,Punchai Undu Nanchai,Unnal Mudiyum Thambi,,,,Medium
+1130,Sudhadhanyasi,Pappampatti Maaman Ponnu,Vaaliban,,,,Medium
+1126,Sudhadhanyasi,Oru Poongaavanam,Agni Nakshatiram (Class Written All Over It),,,,Medium
+1151,Sudhadhanyasi,Vaa Ponmayile,Poonthalir,,,,Medium
+1140,Sudhadhanyasi,Raja Ponnu,Orae Mutham,,,,Medium
+1154,Sudhadhanyasi,Voyyari Gotharamma,Premnchi Pelladu (Telugu),,,,Medium
+1153,Sudhadhanyasi,Vizhiyil Vizhundu,Alaigal Oiyvathilai,,,,Medium
+1152,Sudhadhanyasi,Vaanin Kaadhal Dhevadhai,Kasthoori Maan,,,,Medium
+1122,Sudhadhanyasi,Nadhiyoram,Annaiyor Aalayam (Uses Ri2 & Dha2),,,,Medium
+1150,Sudhadhanyasi,Unnai Ethir Parthaen,Vanaja Girija,,,,Medium
+1149,Sudhadhanyasi,Thendral Kaatrum,Bhagawathipuram Railway Gate,,,,Medium
+1138,Sudhadhanyasi,Raasaleela Vela,Adithya 369 (Telugu),,,,Medium
+1148,Sudhadhanyasi,Thena Odum Odakaraiyil,Bharani,,,,Medium
+1146,Sudhadhanyasi,Thavikidhu Thayangudhu,Nadhiyai Thedi Vandha Kadal,,,,Medium
+1145,Sudhadhanyasi,Thanka Kina,Friends (Malayalam),,,,Medium
+1144,Sudhadhanyasi,Siruponmai Asaiyum,Kallukul Eeram,,,,Medium
+1143,Sudhadhanyasi,Sikkaadha Sittonnu Kayyil Vandha,Sedhu (Uses Ri2 And Dha2),,,,Medium
+1142,Sudhadhanyasi,Sempoove Poove,Siraichaalai,,,,Medium
+1141,Sudhadhanyasi,Rukku Rukku Roop Kya,"Friends (Uses Ri1, Pa)",,,,Medium
+1147,Sudhadhanyasi,Then Aruviyil Nanainthidum,Enakkul Oruvan,,,,Medium
+1121,Sudhadhanyasi,Nadhaswaram Ketto,Ponmudi Puzhayorathu,,,,Medium
+1139,Sudhadhanyasi,Ragavane Ramana,Ilamai Kalangal,,,,Medium
+1119,Sudhadhanyasi,Naan Kaanum Ulagangal,Kaasi (Uses Ri2),,,,Medium
+1088,Sudhadhanyasi,Alli Billi Kallalaa Raave,Chettukinda Pleader (Telugu),,,,Medium
+1089,Sudhadhanyasi,Anandha Kuyilin Paatu,Kaadhalukku Mariyaadhai,,,,Medium
+1090,Sudhadhanyasi,Andharangam Yavume,Ayiram Nilave Vaa,,,,Medium
+1091,Sudhadhanyasi,Ayiram Malargale Malarungal,Niram Maradha Pookal,,,,Medium
+1092,Sudhadhanyasi,Balapam Patti,Bobbil Raja  (Telugu),,,,Medium
+1093,Sudhadhanyasi,Chinna Chinna Mottu Meedhilae,Ninaikka Therindha Manamae,,,,Medium
+1094,Sudhadhanyasi,Deepangal Pesum,Devadai,,,,Medium
+1096,Sudhadhanyasi,Ellorukkum Nalla Kaalam,Marubadiyum,,,,Medium
+1097,Sudhadhanyasi,Enna Solli Paaduvadho,En Mana Vaanil,,,,Medium
+1098,Sudhadhanyasi,Ente Pularkaalam,Garjanam (Malayalam),,,,Medium
+1099,Sudhadhanyasi,Ennoda Ulagam Veru Unnoda Ulagam Veru,Kizhakkum Merkkum,,,,Medium
+1100,Sudhadhanyasi,Ghallu Ghallu,Swarnakamalam (Telugu),,,,Medium
+1101,Sudhadhanyasi,Hele Koogilee,Nammura Mandaara Hoove (Kannada),,,,Medium
+1102,Sudhadhanyasi,Hey Unnai Thaane,Kaadhal Parisu (Superb Westernization Of The Raga),,,,Medium
+1103,Sudhadhanyasi,Ilaya Nadhi Iniya Rathi,Manasellam,,,,Medium
+1095,Sudhadhanyasi,Dhagam Edukira Neram,Enakkaaga Kaathiru,,,,Medium
+1105,Sudhadhanyasi,Kaalai Nera Kaatre,Bhagawathipuram Railway Gate,,,,Medium
+1104,Sudhadhanyasi,Kaadhal Vanilae,Rasayya,,,,Medium
+1118,Sudhadhanyasi,Manasu Mayangum,Sippikul Muthu,,,,Medium
+1117,Sudhadhanyasi,Malle Hoo Maale,Prema Raaga Haadu Gelathi (Kannada),,,,Medium
+1116,Sudhadhanyasi,Malayil Yaro,Chatrian,,,,Medium
+1115,Sudhadhanyasi,Kuthu Kuthu Gummanguthu,En Mana Vaanil,,,,Medium
+1114,Sudhadhanyasi,Kotti Kidakudhu,Theertha Karaiyinilae,,,,Medium
+1113,Sudhadhanyasi,Kolusu Konjum Paadham,Chinna Thurai,,,,Medium
+1120,Sudhadhanyasi,Naan Vanangugiren,Guru,,,,Medium
+1111,Sudhadhanyasi,Kinnerasaami,Sithara (Pallavi Touches Da2 And Ri2) (Telugu),,,,Medium
+1110,Sudhadhanyasi,Kanindhu Varum Neram,"Alai Osai (Vintage Raja Stuff, Ignore The Mukkal-Munagals)",,,,Medium
+1109,Sudhadhanyasi,Kalikonda Chamundi,Pachakuthira,,,,Medium
+1108,Sudhadhanyasi,Kallai Irundhaen Silaiyai Yen Vadithai,Uliyin Osai,,,,Medium
+1107,Sudhadhanyasi,Kala Kalakkum Maniyosai,Eeramana Rojave,,,,Medium
+1106,Sudhadhanyasi,Kaalaiyil Ketadhu Koyil Mani,Senthamizh Paatu,,,,Medium
+1112,Sudhadhanyasi,Kola Kiliye Kola Kiliye,Kakkai Chiraginile,,,,Medium
+1159,Sudhasaveri,Kodamanjin Thaazhvarayil,Kochu Kochu Santhoshangal (Malayalam),,,,Medium
+1166,Sudhasaveri,Rettai Kiligal,Orae Oru Graamathile,,,,Medium
+1165,Sudhasaveri,Radhe En Radhe,Jappanil Kalyanaraman,,,,Medium
+1164,Sudhasaveri,Nattu Vacha Rosa Sedi,Aranmanai Kili (Slight Arabhi Touch Too?),,,,Medium
+1163,Sudhasaveri,Manamagale Manamagale,"Thevar Magan (Durga Shades? Anyways, Sweet Tune)",,,,Medium
+1162,Sudhasaveri,Malargalil Aadum,Kalyana Raman,,,,Medium
+1158,Sudhasaveri,Kadhal Mayakkam,Pudhumai Penn,,,,Medium
+1160,Sudhasaveri,Kondapalli,Ninnu Choodaka Nenundalenu (Telugu),,,,Medium
+1167,Sudhasaveri,Sandiyare Sandiyare,Virumaandi,,,,Medium
+1157,Sudhasaveri,Jaanaki Kalangadulethu,Rajkumar (Telugu),,,,Medium
+1156,Sudhasaveri,Dhevadhai Oru Dhevadhai,Pattakathi Bhairavan,,,,Medium
+1155,Sudhasaveri,Annalakshmi Kann Asacha,Virumaandi,,,,Medium
+1161,Sudhasaveri,Maanada Thenaada,Mudhal Vasantham,,,,Medium
+1168,Sudhasaveri,Sithagathi Pookkale,Raajakumaran,,,,Medium
+1172,Thilang,Manathil Urudhi Vendum,Sindhu Bhairavi,,,,Medium
+1173,Thilang,Yezhuvannam Konda Poovu,Konji Pesalam (Trace Mix Of Ri2/Ga2),,,,Medium
+1170,Thilang,Kothamalli Poove,Kalukkul Eeram,,,,Medium
+1169,Thilang,Kaatula Thalaiyaatura Siru Aavarampoove,Solla Marandha Kadhai,,,,Medium
+1171,Thilang,Madathile Kanni Madathile,Veera (Mixes Traces Of Natai/Jog),,,,Medium
+1174,Thodi,Gangai Karai Mannanadi,Varusham 16,,,,Medium
+1175,Thodi,Nethu Kodutha Vaartha Onnu,Kaadhal Saadhi (Uses Ga3),,,,Medium
+1215,Unknown,Setstats,Unknown,,,,Medium
+1210,Unknown,"Setstats,Setstats,Setstats",Unknown,,,,Medium
+1176,Vaachaspati,Nikkatuma Pogattuma,Periya Veetu Pannakaran,,,,Medium
+1178,Vaasanthi,Adho Mega Oorvalam,Eeramana Rojave (Touches N1),,,,Medium
+1179,Vaasanthi,Malarae Pesu,Geethanjali (Uses G2) / (Touches N1),,,,Medium
+1180,Vaasanthi,Paadu Nilave,Udhaya Geetham (Touches N1),,,,Medium
+1181,Vaasanthi,Paruvamae Pudhiya Paadal,Nenjathai Killadhae (Touches N1),,,,Medium
+1177,Vaasanthi,Nallavarkellam Satchigal Rendu,Thyagam,,,,Medium
+1182,Vaasanthi,Vaa Vaa Vasandhame,Pudhu Kavidhai (Touches N1),,,,Medium
+1196,Vakulabharanam,Pangunikkappuram Sithiraiye,Vanna Vanna Pookal,,,,Medium
+1204,Vakulabharanam,"Yeh Jinga Jinukkuthan, Intha Unakkuthan",Veetula Visheshanga,,,,Medium
+1203,Vakulabharanam,Vendanna Vidala,Vaaliban,,,,Medium
+1202,Vakulabharanam,Velli Kizhamai Thalai Muzhughi,Siva,,,,Medium
+1201,Vakulabharanam,Vaarthai Thavari Vittai,Sedhu,,,,Medium
+1200,Vakulabharanam,Thanni Konjam Yeri Irukku,Julee Ganapathy,,,,Medium
+1199,Vakulabharanam,Thai Thaka Thai Pari Kottudhu Paaraiyya,Andhapuram,,,,Medium
+1198,Vakulabharanam,Thai Pongalum Vandhadhu,Mahanadhi (Uses Dha2),,,,Medium
+1197,Vakulabharanam,Sangili Karuppana,Chandralekha,,,,Medium
+1195,Vakulabharanam,Pachondhiye Kelada,Andha Oru Nimidam,,,,Medium
+1193,Vakulabharanam,Nethu Rathiri Yamma,Moondram Pirai,,,,Medium
+1192,Vakulabharanam,Mazhai Thuliye,Dhanush,,,,Medium
+1191,Vakulabharanam,Maada Vilaka,Virumaandi,,,,Medium
+1190,Vakulabharanam,Lovvunna Love,Meera,,,,Medium
+1189,Vakulabharanam,Kinnathil Then Vadithu,Ilamai Oonjalaadugiradhu,,,,Medium
+1188,Vakulabharanam,Kadha Kelu Kadha Kelu,Micheal Madana Kamarajan (In The Master'S Own Voice),,,,Medium
+1187,Vakulabharanam,Gangai Nadhi Meeno,Niyayam,,,,Medium
+1186,Vakulabharanam,Bikshai Paathiram Yendhi Vandhen,Raajavin Ramanamaalai,,,,Medium
+1185,Vakulabharanam,Amma Naan Pacha Pulla,Pondatti Thevai,,,,Medium
+1184,Vakulabharanam,Aasai Nooru Vagai,Thanikaatu Raja (Misses Gandharam Totally),,,,Medium
+1183,Vakulabharanam,Aarum Adhu Aazham Illa,Mudhal Vasantham,,,,Medium
+1194,Vakulabharanam,Oh Oru Thendral Puyalaagi Varudhe,Pudhumai Penn,,,,Medium
+1205,Valaji,Siva Poojaku,Swarna Kamalam (Telugu),,,,Medium
+1207,Vasantha,Maan Kandaen Maan Kandaen,Rajarishi,,,,Medium
+1206,Vasantha,Arjunamantra,Sithara (Ragamalika Towards End) (Telugu),,,,Medium
+1208,Vasantha,Nil Nil Nil,Pattu Padava,,,,Medium
+1209,Vijayanagari,Anba Sumandhu Sumandhu,Ponnumani,,,,Medium
+1211,Vijayanagari,Vanna Nilave Vaigai,Paadatha Theneekal,,,,Medium
+1212,Yadhukula Kambhodhi,Karumbaaley Villa Katti,Vaazhga Valarga (Scale Changes After 2:00 Minutes),,,,Medium
+1213,Yadhukula Kambhodhi,Nalla Neram Edha Thotaalum Ponnaagudhu,Uthama Raasa,,,,Medium
+1214,Yadhukula Kambhodhi,Othaiyila Ninnadhenna,Vanaja Girija,,,,Medium
+1218,Yaman Kalyani,Yaar Veetu Roja,Idhaya Kovil,,,,Medium
+1216,Yaman Kalyani,Oru Vanavil Pole,Kaatrinile Varum Geetham (Touches D1/Anya Swaras),,,,Medium
+1217,Yaman Kalyani,Thevan Koyil Deepam Onru,Nan Padum Paadal (Charanams Touch D1/R1),,,,Medium
+1219,Yaman Kalyani,Yamunai Attrile,Thalapathi,,,,Medium

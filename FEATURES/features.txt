@@ -1,0 +1,45 @@
+Pitch & Prosody
+
+F0 mean, std, min, max
+
+Pitch range
+
+Voiced ratio
+
+Spectral Features
+
+Spectral centroid
+
+Bandwidth
+
+Rolloff
+
+Flatness
+
+Contrast
+
+MFCC Identity (Most Important)
+
+13 MFCC means
+
+13 MFCC stds
+
+Voice Quality (Singer Identity Markers)
+
+Jitter
+
+Shimmer
+
+Harmonic-to-noise ratio (HNR)
+
+Formants (Vocal Tract Identity)
+
+F1, F2, F3 mean/std
+
+Energy Features
+
+RMS mean/std
+
+Zero-crossing rate
+
+This gives ~65–75 features easily.

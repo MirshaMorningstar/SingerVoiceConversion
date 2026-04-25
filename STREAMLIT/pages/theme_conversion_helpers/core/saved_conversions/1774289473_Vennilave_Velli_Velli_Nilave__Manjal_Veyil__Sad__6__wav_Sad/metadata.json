@@ -1,0 +1,192 @@
+{
+  "original_name": "Vennilave Velli Velli Nilave (Manjal Veyil)_Sad (6).wav",
+  "target_emotion": "Sad",
+  "target_raga": "Bhairavi",
+  "timestamp": 1774289473,
+  "report": {
+    "file": "C:\\Users\\mdipa\\AppData\\Local\\Temp\\tmpnuushfyn\\Vennilave Velli Velli Nilave (Manjal Veyil)_Sad (6).wav",
+    "duration_sec": 68.2,
+    "tempo_bpm": 93.8,
+    "tonic_semitone": 9,
+    "dominant_swaras": [
+      "Sa",
+      "R1",
+      "R2/G1",
+      "R3/G2",
+      "G3",
+      "M1",
+      "M2",
+      "Pa",
+      "D1",
+      "D2/N1",
+      "D3/N2",
+      "N3"
+    ],
+    "detected_raga": "Todi",
+    "detected_emotion": "Fearful",
+    "match_score": 0.8014,
+    "all_matches": [
+      {
+        "raga": "Todi",
+        "emotion": "Fearful",
+        "score": 0.8014,
+        "swaras": [
+          "S",
+          "R1",
+          "G2",
+          "M1",
+          "P",
+          "D1",
+          "N3"
+        ]
+      },
+      {
+        "raga": "Kalyani",
+        "emotion": "Surprised",
+        "score": 0.7802,
+        "swaras": [
+          "S",
+          "R2",
+          "G3",
+          "M2",
+          "P",
+          "D2",
+          "N3"
+        ]
+      },
+      {
+        "raga": "Bhairavi",
+        "emotion": "Sad",
+        "score": 0.7394,
+        "swaras": [
+          "S",
+          "R2",
+          "G2",
+          "M1",
+          "P",
+          "D1",
+          "N2"
+        ]
+      },
+      {
+        "raga": "Kambhoji",
+        "emotion": "Disgusted",
+        "score": 0.7373,
+        "swaras": [
+          "S",
+          "R2",
+          "G3",
+          "M1",
+          "P",
+          "D2",
+          "N2"
+        ]
+      },
+      {
+        "raga": "Kharaharapriya",
+        "emotion": "Romantic",
+        "score": 0.7172,
+        "swaras": [
+          "S",
+          "R2",
+          "G2",
+          "M1",
+          "P",
+          "D2",
+          "N2"
+        ]
+      },
+      {
+        "raga": "Mohanam",
+        "emotion": "Happy",
+        "score": 0.6856,
+        "swaras": [
+          "S",
+          "G3",
+          "P",
+          "D2",
+          "N3"
+        ]
+      },
+      {
+        "raga": "Hamsadhwani",
+        "emotion": "Peaceful",
+        "score": 0.6568,
+        "swaras": [
+          "S",
+          "G3",
+          "P",
+          "N3"
+        ]
+      },
+      {
+        "raga": "Dhanyasi",
+        "emotion": "Angry",
+        "score": 0.6174,
+        "swaras": [
+          "S",
+          "R2",
+          "G2",
+          "P",
+          "D1"
+        ]
+      }
+    ]
+  },
+  "log": {
+    "source_raga": "Todi",
+    "target_raga": "Bhairavi",
+    "target_emotion": "Sad",
+    "pitch_shift_st": -2.0,
+    "tempo_factor": 0.88,
+    "notes_added": {
+      "2": "R2/G1",
+      "10": "D3/N2"
+    },
+    "notes_removed": {
+      "1": "R1",
+      "11": "N3"
+    },
+    "notes_shared": {
+      "0": "Sa",
+      "3": "R3/G2",
+      "5": "M1",
+      "7": "Pa",
+      "8": "D1"
+    },
+    "output_path": "C:\\Users\\mdipa\\AppData\\Local\\Temp\\tmpnuushfyn\\converted_sad.wav"
+  },
+  "row": {
+    "File": "Vennilave Velli Velli Nilave (Manjal Veyil)_Sad (6).wav",
+    "Duration (s)": 68.2,
+    "Tempo (BPM)": 93.8,
+    "Detected Raga": "Todi",
+    "Detected Emotion": "Fearful",
+    "Raga Match Score": "0.801",
+    "Dominant Swaras": "Sa, R1, R2/G1, R3/G2, G3, M1, M2, Pa, D1, D2/N1, D3/N2, N3",
+    "Source Note Count": 7,
+    "Target Emotion": "Sad",
+    "Target Raga": "Bhairavi",
+    "Target Note Count": 7,
+    "Notes Removed": "R1, N3",
+    "Notes Added": "R2/G1, D3/N2",
+    "Shared Notes Count": 5,
+    "Notes Removed Count": 2,
+    "Notes Added Count": 2,
+    "Pitch Shift (st)": -2.0,
+    "Tempo Scale Factor": "0.88",
+    "Tempo Direction": "Slower",
+    "Source Raga Type": "Heptatonic (Sampoorna)",
+    "Target Raga Type": "Heptatonic (Sampoorna)",
+    "Source Scale": "Augmented / Lydian-b2",
+    "Target Scale": "Minor / Phrygian",
+    "Source Melakarta": "Shubhapantuvarali (45)",
+    "Target Melakarta": "Natabhairavi (20)",
+    "Source Gamaka": "Kampita on Ri, Ga; Andolita on Dha",
+    "Target Gamaka": "Andolita on Ga, Ni; Kampita on Ma",
+    "Source Vadi Note": "Dha1",
+    "Target Vadi Note": "Ma1",
+    "Emotional Intensity Src": "7/10",
+    "Emotional Intensity Tgt": "6/10"
+  }
+}

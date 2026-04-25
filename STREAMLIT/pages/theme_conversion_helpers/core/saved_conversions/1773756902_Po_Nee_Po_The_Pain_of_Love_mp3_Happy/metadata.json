@@ -1,0 +1,193 @@
+{
+  "original_name": "Po_Nee_Po_The_Pain_of_Love.mp3",
+  "target_emotion": "Happy",
+  "target_raga": "Mohanam",
+  "timestamp": 1773756902,
+  "report": {
+    "file": "C:\\Users\\mdipa\\AppData\\Local\\Temp\\tmpx6ywt9so\\Po_Nee_Po_The_Pain_of_Love.mp3",
+    "duration_sec": 251.8,
+    "tempo_bpm": 89.1,
+    "tonic_semitone": 9,
+    "dominant_swaras": [
+      "Sa",
+      "R1",
+      "R2/G1",
+      "R3/G2",
+      "G3",
+      "M1",
+      "M2",
+      "Pa",
+      "D1",
+      "D2/N1",
+      "D3/N2",
+      "N3"
+    ],
+    "detected_raga": "Bhairavi",
+    "detected_emotion": "Sad",
+    "match_score": 0.8394,
+    "all_matches": [
+      {
+        "raga": "Bhairavi",
+        "emotion": "Sad",
+        "score": 0.8394,
+        "swaras": [
+          "S",
+          "R2",
+          "G2",
+          "M1",
+          "P",
+          "D1",
+          "N2"
+        ]
+      },
+      {
+        "raga": "Kharaharapriya",
+        "emotion": "Romantic",
+        "score": 0.8372,
+        "swaras": [
+          "S",
+          "R2",
+          "G2",
+          "M1",
+          "P",
+          "D2",
+          "N2"
+        ]
+      },
+      {
+        "raga": "Kambhoji",
+        "emotion": "Disgusted",
+        "score": 0.8078,
+        "swaras": [
+          "S",
+          "R2",
+          "G3",
+          "M1",
+          "P",
+          "D2",
+          "N2"
+        ]
+      },
+      {
+        "raga": "Todi",
+        "emotion": "Fearful",
+        "score": 0.771,
+        "swaras": [
+          "S",
+          "R1",
+          "G2",
+          "M1",
+          "P",
+          "D1",
+          "N3"
+        ]
+      },
+      {
+        "raga": "Kalyani",
+        "emotion": "Surprised",
+        "score": 0.7614,
+        "swaras": [
+          "S",
+          "R2",
+          "G3",
+          "M2",
+          "P",
+          "D2",
+          "N3"
+        ]
+      },
+      {
+        "raga": "Dhanyasi",
+        "emotion": "Angry",
+        "score": 0.7056,
+        "swaras": [
+          "S",
+          "R2",
+          "G2",
+          "P",
+          "D1"
+        ]
+      },
+      {
+        "raga": "Mohanam",
+        "emotion": "Happy",
+        "score": 0.6592,
+        "swaras": [
+          "S",
+          "G3",
+          "P",
+          "D2",
+          "N3"
+        ]
+      },
+      {
+        "raga": "Hamsadhwani",
+        "emotion": "Peaceful",
+        "score": 0.6113,
+        "swaras": [
+          "S",
+          "G3",
+          "P",
+          "N3"
+        ]
+      }
+    ]
+  },
+  "log": {
+    "source_raga": "Bhairavi",
+    "target_raga": "Mohanam",
+    "target_emotion": "Happy",
+    "pitch_shift_st": 0.0,
+    "tempo_factor": 1.0,
+    "notes_added": {
+      "4": "G3",
+      "9": "D2/N1",
+      "11": "N3"
+    },
+    "notes_removed": {
+      "2": "R2/G1",
+      "3": "R3/G2",
+      "5": "M1",
+      "8": "D1",
+      "10": "D3/N2"
+    },
+    "notes_shared": {
+      "0": "Sa",
+      "7": "Pa"
+    },
+    "output_path": "C:\\Users\\mdipa\\AppData\\Local\\Temp\\tmpx6ywt9so\\converted_happy.wav"
+  },
+  "row": {
+    "File": "Po_Nee_Po_The_Pain_of_Love.mp3",
+    "Duration (s)": 251.8,
+    "Tempo (BPM)": 89.1,
+    "Detected Raga": "Bhairavi",
+    "Detected Emotion": "Sad",
+    "Raga Match Score": "0.839",
+    "Dominant Swaras": "Sa, R1, R2/G1, R3/G2, G3, M1, M2, Pa, D1, D2/N1, D3/N2, N3",
+    "Source Note Count": 7,
+    "Target Emotion": "Happy",
+    "Target Raga": "Mohanam",
+    "Target Note Count": 5,
+    "Notes Removed": "R2/G1, R3/G2, M1, D1, D3/N2",
+    "Notes Added": "G3, D2/N1, N3",
+    "Shared Notes Count": 2,
+    "Notes Removed Count": 5,
+    "Notes Added Count": 3,
+    "Pitch Shift (st)": 0.0,
+    "Tempo Scale Factor": "1.0",
+    "Tempo Direction": "Same",
+    "Source Raga Type": "Heptatonic (Sampoorna)",
+    "Target Raga Type": "Pentatonic (Audava-Audava)",
+    "Source Scale": "Minor / Phrygian",
+    "Target Scale": "Major Pentatonic",
+    "Source Melakarta": "Natabhairavi (20)",
+    "Target Melakarta": "Harikambhoji (28)",
+    "Source Gamaka": "Andolita on Ga, Ni; Kampita on Ma",
+    "Target Gamaka": "Kampita on Ga, Dha",
+    "Source Vadi Note": "Ma1",
+    "Target Vadi Note": "Ga3",
+    "Emotional Intensity Src": "6/10",
+    "Emotional Intensity Tgt": "8/10"
+  }
+}
