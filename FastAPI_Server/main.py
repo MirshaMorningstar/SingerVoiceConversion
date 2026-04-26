@@ -10,6 +10,9 @@ import scipy.signal as sps
 import numpy as np
 import asyncio
 import json
+import subprocess
+import tempfile
+import base64
 
 from fastapi import FastAPI, UploadFile, File, Form, WebSocket, WebSocketDisconnect
 from fastapi.responses import JSONResponse, FileResponse
@@ -21,6 +24,7 @@ from typing import List, Dict, Optional
 # Setup path to local modules
 sys.path.append(r"d:\RagaVoiceStudio")
 sys.path.append(r"d:\RagaVoiceStudio\STREAMLIT")
+sys.path.append(r"d:\RagaVoiceStudio\STREAMLIT\pages\theme_conversion_helpers")
 
 from pipeline.run_demucs import run_demucs
 from pipeline.run_seedvc import run_seedvc
@@ -222,15 +226,7 @@ async def get_gallery():
     
 @app.websocket("/ws/convert")
 async def websocket_convert(websocket: WebSocket):
-    """
-    WebSocket endpoint. Expects JSON upon connection with:
-    {
-       "sources": [{"name": "A.wav", "gender": "Male"}],
-       "targets": [{"name": "B_ref.wav", "gender": "Female"}]
-    }
-    """
     await websocket.accept()
-    
     try:
         data = await websocket.receive_text()
         request_data = json.loads(data)
@@ -347,7 +343,8 @@ async def websocket_convert(websocket: WebSocket):
                         "type": "result_100",
                         "message": "Singer Identity Similarity (Post-Correction)",
                         "similarity": round(sim_100 * 100, 2),
-                        "audio_url": f"/static_converted/{final_mix_name}"
+                        "audio_url": f"/static_converted/{final_mix_name}",
+                        "target_base": tgt_base
                     })
                     
                 except Exception as e:
@@ -366,7 +363,164 @@ async def websocket_convert(websocket: WebSocket):
         except:
             pass
 
+
+# ==========================================================
+# RAGA SUITE ENDPOINTS
+# ==========================================================
+
+RAGA_RULES = None
+RAGA_SWARA_SETS = None
+RAGA_NAMES = None
+
+def init_raga_rules():
+    global RAGA_RULES, RAGA_SWARA_SETS, RAGA_NAMES
+    if RAGA_RULES is not None:
+        return
+    import pandas as pd
+    from mlxtend.frequent_patterns import fpgrowth, association_rules
+    csv_path = r"d:\RagaVoiceStudio\STREAMLIT\pages\raga_notes_binary_encoding_935.csv"
+    if not os.path.exists(csv_path):
+        return
+    df = pd.read_csv(csv_path)
+    RAGA_NAMES = df['Raga']
+    df = df.drop(columns=['Raga', 'S', 'F1'], errors='ignore')
+    swara_map = {
+        "F2": "R1", "F3": "R2", "F4": "R3",
+        "F5": "G1", "F6": "G2", "F7": "G3",
+        "F8": "M1", "F9": "M2",
+        "F10": "P",
+        "F11": "D1", "F12": "D2", "F13": "D3",
+        "F14": "N1", "F15": "N2", "F16": "N3"
+    }
+    df = df.rename(columns={k: v for k, v in swara_map.items() if k in df.columns})
+    df = df.astype(bool)
+    
+    frequent_itemsets = fpgrowth(df, min_support=0.3, use_colnames=True)
+    rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=0.6)
+    rules = rules.dropna()
+    rules = rules.sort_values(by="confidence", ascending=False).head(50)
+    rules['antecedents'] = rules['antecedents'].apply(list)
+    rules['consequents'] = rules['consequents'].apply(list)
+    
+    RAGA_RULES = rules
+    RAGA_SWARA_SETS = [set(df.columns[df.iloc[i] == True]) for i in range(len(df))]
+
+from pydantic import BaseModel
+class PredictRequest(BaseModel):
+    swaras: list
+
+@app.post("/api/raga/predict")
+async def predict_raga(req: PredictRequest):
+    init_raga_rules()
+    if RAGA_RULES is None:
+        return JSONResponse(status_code=500, content={"error": "Models not loaded."})
+    
+    input_swaras = req.swaras
+    input_set = set(input_swaras)
+    
+    # Recommend Next
+    recommendation_dict = {}
+    for _, row in RAGA_RULES.iterrows():
+        if set(row['antecedents']).issubset(input_set):
+            for swara in row['consequents']:
+                if swara not in recommendation_dict or row['confidence'] > recommendation_dict[swara]:
+                    recommendation_dict[swara] = row['confidence']
+    recommendations = [{"swara": k, "confidence": v} for k, v in recommendation_dict.items()]
+    recommendations.sort(key=lambda x: x["confidence"], reverse=True)
+    
+    # Best Swara Added
+    if recommendations:
+        input_set.add(recommendations[0]["swara"])
+        
+    # Match Raga
+    scores = []
+    for i, raga_swaras in enumerate(RAGA_SWARA_SETS):
+        remaining_swaras = raga_swaras - input_set
+        intersection = len(input_set & raga_swaras)
+        union = len(input_set | raga_swaras)
+        score = intersection / union if union != 0 else 0
+        penalty = len(remaining_swaras) * 0.05
+        scores.append({"raga": str(RAGA_NAMES.iloc[i]), "score": score - penalty})
+        
+    scores.sort(key=lambda x: x["score"], reverse=True)
+    
+    return {"recommendations": recommendations[:5], "ragas": scores[:5]}
+
+
+@app.post("/api/swara/extract")
+async def extract_swara(file: UploadFile = File(...)):
+    from core.raga_extractor import extract_swara_profile, extract_note_sequence
+    with tempfile.TemporaryDirectory() as tmpdir:
+        tmp_path = os.path.join(tmpdir, file.filename)
+        with open(tmp_path, "wb") as f:
+            f.write(await file.read())
+            
+        sp = extract_swara_profile(tmp_path)
+        ns = extract_note_sequence(tmp_path, duration_sec=60)
+        
+        # Clean numpy types for JSON serialization
+        if 'chroma_vector' in sp and hasattr(sp['chroma_vector'], 'tolist'):
+            sp['chroma_vector'] = sp['chroma_vector'].tolist()
+            
+        return {"swara_profile": sp, "note_sequence": ns}
+
+
+@app.websocket("/ws/theme_convert")
+async def websocket_theme_convert(websocket: WebSocket):
+    await websocket.accept()
+    from core.raga_extractor import full_extraction_report
+    from core.raga_transformer import convert_song
+    
+    try:
+        # First wait for the parameters
+        data = await websocket.receive_text()
+        payload = json.loads(data)
+        filename = payload.get("filename")
+        target_emotion = payload.get("target_emotion")
+        file_bytes = bytes(payload.get("audio_bytes_base64"), 'utf-8')
+        
+        # decode base64
+        import base64
+        audio_data = base64.b64decode(file_bytes)
+        
+        with tempfile.TemporaryDirectory() as tmpdir:
+            in_path = os.path.join(tmpdir, filename)
+            out_name = f"theme_converted_{target_emotion}.wav"
+            out_path = os.path.join(CONVERTED_DIR, out_name)
+            
+            with open(in_path, "wb") as f:
+                f.write(audio_data)
+                
+            await websocket.send_json({"type": "step", "message": "Analyzing audio profile..."})
+            report = await asyncio.to_thread(full_extraction_report, in_path)
+            
+            await websocket.send_json({"type": "step", "message": f"Source detected as {report['detected_raga']}. Converting..."})
+            log = await asyncio.to_thread(
+                convert_song,
+                in_path,
+                target_emotion,
+                report["detected_raga"],
+                report["_tonic"],
+                report["_y"],
+                report["_sr"],
+                out_path
+            )
+            
+            await websocket.send_json({
+                "type": "complete",
+                "audio_url": f"/static_converted/{out_name}",
+                "report": {
+                    "source_raga": report["detected_raga"],
+                    "pitch_shift": log.get("pitch_shift_st", 0),
+                    "tempo_factor": log.get("tempo_factor", 1.0)
+                }
+            })
+            
+    except WebSocketDisconnect:
+        pass
+    except Exception as e:
+        await websocket.send_json({"type": "error", "message": str(e)})
+
 if __name__ == "__main__":
     import uvicorn
-    # Make sure we bind to 0.0.0.0 so phone can hit it
     uvicorn.run(app, host="0.0.0.0", port=8000)

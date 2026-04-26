@@ -322,9 +322,7 @@ const ConvertScreen = () => {
          setProgressLog((prev) => [...prev, `🔸 ${data.message}: ${data.similarity}%`]);
          if (data.type === 'result_100') {
            // Task finished, attach final url and target base internally
-           const splitText = activeTaskText.split(' → ');
-           const targetNameStr = splitText.length > 1 ? splitText[1] : '';
-           const tgtBase = targetNameStr.split('.')[0] || '';
+           const tgtBase = data.target_base || '';
            
            setFinalResults(prev => [...prev, { url: data.audio_url, tgtBase: tgtBase }]);
          }
@@ -463,6 +461,247 @@ const ConvertScreen = () => {
 
 
 // -------------------------------------------------------------
+// 4. RAGA SUITE SCREEN (Swara, Raga, Theme)
+// -------------------------------------------------------------
+import * as FileSystem from 'expo-file-system/legacy';
+import { LogBox } from 'react-native';
+
+LogBox.ignoreLogs([
+  'Expo AV has been deprecated',
+  'Method readAsStringAsync imported from "expo-file-system" is deprecated'
+]);
+
+const RagaSuiteScreen = () => {
+  const [activeTool, setActiveTool] = useState(null); // 'swara', 'raga', 'theme'
+  
+  // -- Swara State --
+  const [swaraUploading, setSwaraUploading] = useState(false);
+  const [swaraResult, setSwaraResult] = useState(null);
+
+  // -- Raga Predict State --
+  const [ragaInput, setRagaInput] = useState('');
+  const [ragaResult, setRagaResult] = useState(null);
+  const [ragaPredicting, setRagaPredicting] = useState(false);
+
+  // -- Theme State --
+  const [themeConverting, setThemeConverting] = useState(false);
+  const [themeProgress, setThemeProgress] = useState([]);
+  const [themeResult, setThemeResult] = useState(null);
+
+  const handleSwaraUpload = async () => {
+    try {
+      const res = await DocumentPicker.getDocumentAsync({ type: ['audio/*'] });
+      if (res.canceled) return;
+      setSwaraUploading(true);
+      const formData = new FormData();
+      formData.append('file', { uri: res.assets[0].uri, name: res.assets[0].name, type: res.assets[0].mimeType || 'audio/wav' });
+      
+      const out = await axios.post(`${API_BASE_URL}/api/swara/extract`, formData, { headers: { 'Content-Type': 'multipart/form-data' } });
+      setSwaraResult(out.data);
+    } catch (e) { Alert.alert('Error', e.message); }
+    finally { setSwaraUploading(false); }
+  };
+
+  const handleRagaPredict = async () => {
+    if (!ragaInput) return;
+    try {
+      setRagaPredicting(true);
+      const swaras = ragaInput.split(',').map(s => s.trim().toUpperCase());
+      const res = await axios.post(`${API_BASE_URL}/api/raga/predict`, { swaras });
+      setRagaResult(res.data);
+    } catch (e) { Alert.alert('Error', e.message); }
+    finally { setRagaPredicting(false); }
+  };
+
+  const handleThemeUpload = async () => {
+    try {
+      const res = await DocumentPicker.getDocumentAsync({ type: ['audio/*'] });
+      if (res.canceled) return;
+      
+      Alert.alert(
+        "Select Target Emotion",
+        "Which emotion do you want to convert this to?",
+        [
+          { text: "Happy", onPress: () => runThemeWs(res.assets[0], "Happy") },
+          { text: "Sad", onPress: () => runThemeWs(res.assets[0], "Sad") },
+          { text: "Angry", onPress: () => runThemeWs(res.assets[0], "Angry") },
+          { text: "Peaceful", onPress: () => runThemeWs(res.assets[0], "Peaceful") },
+          { text: "Cancel", style: "cancel" }
+        ]
+      );
+    } catch (e) { Alert.alert('Error', e.message); }
+  };
+
+  const runThemeWs = async (fileAsset, emotion) => {
+    setThemeConverting(true);
+    setThemeProgress([]);
+    setThemeResult(null);
+    try {
+      const b64 = await FileSystem.readAsStringAsync(fileAsset.uri, { encoding: 'base64' });
+      const ws = new WebSocket(`${WS_BASE_URL.replace('/ws/convert', '/ws/theme_convert')}`);
+      
+      ws.onopen = () => {
+        ws.send(JSON.stringify({ filename: fileAsset.name, target_emotion: emotion, audio_bytes_base64: b64 }));
+      };
+      
+      ws.onmessage = (e) => {
+        const d = JSON.parse(e.data);
+        if (d.type === 'step') {
+          setThemeProgress(prev => [...prev, d.message]);
+        } else if (d.type === 'complete') {
+          setThemeResult(d);
+          setThemeConverting(false);
+        } else if (d.type === 'error') {
+          Alert.alert("Error", d.message);
+          setThemeConverting(false);
+        }
+      };
+    } catch (e) {
+      Alert.alert("Error", e.message);
+      setThemeConverting(false);
+    }
+  };
+
+  // --- RENDERS ---
+  const renderMenu = () => (
+    <View style={{ flex: 1, padding: 20 }}>
+      <Text style={styles.sectionTitle}>Select a Core AI Module</Text>
+      
+      <TouchableOpacity onPress={() => setActiveTool('swara')}>
+        <GlassCard style={{ marginBottom: 20, alignItems: 'center' }}>
+          <Ionicons name="pulse" size={35} color={THEME.accent} />
+          <Text style={[styles.cardHeading, { marginTop: 10 }]}>1. Swara Extractor</Text>
+          <Text style={{ color: THEME.subText, textAlign: 'center' }}>Extract pitch profile and sequence from any audio.</Text>
+        </GlassCard>
+      </TouchableOpacity>
+      
+      <TouchableOpacity onPress={() => setActiveTool('raga')}>
+        <GlassCard style={{ marginBottom: 20, alignItems: 'center' }}>
+          <Ionicons name="git-merge" size={35} color={THEME.accent} />
+          <Text style={[styles.cardHeading, { marginTop: 10 }]}>2. Raga Predictor</Text>
+          <Text style={{ color: THEME.subText, textAlign: 'center' }}>FP-Growth association rule mining for Swara patterns.</Text>
+        </GlassCard>
+      </TouchableOpacity>
+      
+      <TouchableOpacity onPress={() => setActiveTool('theme')}>
+        <GlassCard style={{ marginBottom: 20, alignItems: 'center' }}>
+          <Ionicons name="color-wand" size={35} color={THEME.accent} />
+          <Text style={[styles.cardHeading, { marginTop: 10 }]}>3. Theme Converter</Text>
+          <Text style={{ color: THEME.subText, textAlign: 'center' }}>Convert song emotion using DSP and Phase Vocoder.</Text>
+        </GlassCard>
+      </TouchableOpacity>
+    </View>
+  );
+
+  return (
+    <ImageBackground source={bgImage} style={styles.bg}>
+      <SafeAreaView style={{ flex: 1, paddingHorizontal: 20 }} edges={['top', 'left', 'right']}>
+        <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 10, marginTop: 10 }}>
+          {activeTool && (
+            <TouchableOpacity onPress={() => setActiveTool(null)} style={{ marginRight: 15 }}>
+              <Ionicons name="arrow-back" size={28} color={THEME.accent} />
+            </TouchableOpacity>
+          )}
+          <Text style={[styles.pageTitle, { marginTop: 0, marginBottom: 0 }]}>Raga Suite</Text>
+        </View>
+
+        {!activeTool && renderMenu()}
+
+        {activeTool === 'swara' && (
+          <ScrollView contentContainerStyle={{ paddingBottom: 120 }}>
+            <GlassCard style={{ alignItems: 'center' }}>
+              <Ionicons name="musical-notes-outline" size={40} color={THEME.accent} />
+              <Text style={{ color: '#fff', marginVertical: 10 }}>Upload song to extract Swaras</Text>
+              <TouchableOpacity style={[styles.solidBtn, { width: '80%' }]} onPress={handleSwaraUpload}>
+                <Text style={styles.solidBtnText}>{swaraUploading ? "Extracting..." : "Upload & Analyze"}</Text>
+              </TouchableOpacity>
+            </GlassCard>
+            
+            {swaraResult && (
+              <GlassCard style={{ marginTop: 20 }}>
+                <Text style={styles.cardHeading}>Analysis Results</Text>
+                <Text style={{ color: THEME.subText }}>Detected Raga: {swaraResult.swara_profile.all_raga_scores[0].raga}</Text>
+                <Text style={{ color: THEME.subText }}>Duration: {swaraResult.note_sequence.duration_analysed}s</Text>
+                <Text style={{ color: THEME.subText, marginTop: 10 }}>Note Flow:</Text>
+                <Text style={{ color: '#aaa', fontSize: 12 }}>{swaraResult.note_sequence.note_events.slice(0, 30).join(' → ')}...</Text>
+              </GlassCard>
+            )}
+          </ScrollView>
+        )}
+
+        {activeTool === 'raga' && (
+          <ScrollView contentContainerStyle={{ paddingBottom: 120 }}>
+            <GlassCard>
+              <Text style={styles.cardHeading}>Enter Swaras</Text>
+              <TextInput 
+                style={{ backgroundColor: 'rgba(0,0,0,0.5)', color: '#fff', padding: 15, borderRadius: 10, marginTop: 10, borderWidth: 1, borderColor: THEME.glassBorder }}
+                placeholder="e.g. R2, M1, P"
+                placeholderTextColor="#666"
+                value={ragaInput}
+                onChangeText={setRagaInput}
+              />
+              <TouchableOpacity style={[styles.solidBtn, { marginTop: 15 }]} onPress={handleRagaPredict}>
+                <Text style={styles.solidBtnText}>{ragaPredicting ? "Predicting..." : "Predict Next & Match Raga"}</Text>
+              </TouchableOpacity>
+            </GlassCard>
+            
+            {ragaResult && (
+              <GlassCard style={{ marginTop: 20 }}>
+                <Text style={styles.cardHeading}>1. Recommended Next Swaras</Text>
+                {ragaResult.recommendations.map((r, i) => (
+                  <Text key={i} style={{ color: '#fff' }}>• {r.swara} (Conf: {r.confidence.toFixed(2)})</Text>
+                ))}
+                
+                <Text style={[styles.cardHeading, { marginTop: 20 }]}>2. Raga Matches</Text>
+                {ragaResult.ragas.map((r, i) => (
+                  <Text key={i} style={{ color: THEME.accent }}>• {r.raga} (Score: {r.score.toFixed(2)})</Text>
+                ))}
+              </GlassCard>
+            )}
+          </ScrollView>
+        )}
+
+        {activeTool === 'theme' && (
+          <ScrollView contentContainerStyle={{ paddingBottom: 120 }}>
+            <GlassCard style={{ alignItems: 'center' }}>
+              <Ionicons name="color-filter-outline" size={40} color={THEME.accent} />
+              <Text style={{ color: '#fff', marginVertical: 10, textAlign: 'center' }}>Select a Tamil song to transform its emotional raga footprint.</Text>
+              <TouchableOpacity style={[styles.solidBtn, { width: '80%' }]} onPress={handleThemeUpload}>
+                <Text style={styles.solidBtnText}>Select Source Song</Text>
+              </TouchableOpacity>
+            </GlassCard>
+            
+            {themeProgress.length > 0 && (
+              <GlassCard style={{ marginTop: 20 }}>
+                {themeProgress.map((p, i) => (
+                  <Text key={i} style={{ color: '#aaa', fontSize: 12, marginVertical: 2 }}>{p}</Text>
+                ))}
+                {themeConverting && <ActivityIndicator color={THEME.accent} style={{ marginTop: 10 }} />}
+              </GlassCard>
+            )}
+            
+            {themeResult && (
+              <GlassCard style={{ marginTop: 20, borderColor: THEME.accent }}>
+                <Text style={styles.cardHeading}>Transformation Complete!</Text>
+                <Text style={{ color: '#fff', marginVertical: 10 }}>Source was {themeResult.report.source_raga}. Target pitch shifted by {themeResult.report.pitch_shift} semitones.</Text>
+                
+                <TouchableOpacity onPress={async () => {
+                   const { sound } = await Audio.Sound.createAsync({ uri: `${API_BASE_URL}${themeResult.audio_url}` }, { shouldPlay: true });
+                }} style={[styles.solidBtn, { borderColor: THEME.accent, borderWidth: 1 }]}>
+                  <Text style={[styles.solidBtnText, { color: THEME.accent }]}>▶ Play Emotion Render</Text>
+                </TouchableOpacity>
+              </GlassCard>
+            )}
+          </ScrollView>
+        )}
+
+      </SafeAreaView>
+    </ImageBackground>
+  );
+};
+
+
+// -------------------------------------------------------------
 // APP CONFIG & STYLES
 // -------------------------------------------------------------
 const Tab = createBottomTabNavigator();
@@ -477,8 +716,9 @@ export default function App() {
             tabBarIcon: ({ color, size }) => {
               let iconName = 'home';
               if (route.name === 'Gallery') iconName = 'albums';
-              else if (route.name === 'Studio') iconName = 'color-filter';
+              else if (route.name === 'Studio') iconName = 'mic';
               else if (route.name === 'Library') iconName = 'folder';
+              else if (route.name === 'Raga Suite') iconName = 'musical-notes';
               return <Ionicons name={iconName} size={size} color={color} />;
             },
             tabBarActiveTintColor: THEME.accent,
@@ -503,6 +743,7 @@ export default function App() {
           })}
         >
           <Tab.Screen name="Studio" component={ConvertScreen} />
+          <Tab.Screen name="Raga Suite" component={RagaSuiteScreen} />
           <Tab.Screen name="Gallery" component={HomeScreen} />
           <Tab.Screen name="Library" component={UploadScreen} />
         </Tab.Navigator>

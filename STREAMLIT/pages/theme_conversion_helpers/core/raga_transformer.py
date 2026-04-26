@@ -94,13 +94,14 @@ def separate_vocals_demucs(audio_path, sr):
         import soundfile as _sf2
         with tempfile.TemporaryDirectory() as _td:
             sep = Separator(output_dir=_td, output_format="WAV",
-                           normalization=0.9, mdx_enable_denoise=True)
+                           normalization_threshold=0.9, mdx_params={"enable_denoise": True, "hop_length": 1024, "segment_size": 256, "overlap": 0.25, "batch_size": 1})
             sep.load_model("Kim_Vocal_2.onnx")
             files = sep.separate(audio_path)
             vf = next((f for f in files
                        if "Vocals" in f or "vocal" in f.lower()), None)
             if vf:
-                v, vsr = _sf2.read(vf, dtype="float32")
+                vf_path = os.path.join(_td, vf)
+                v, vsr = _sf2.read(vf_path, dtype="float32")
                 if v.ndim == 2: v = v.mean(axis=1)
                 if vsr != sr: v = resample_poly(v, sr, vsr)
                 y_full, _ = librosa.load(audio_path, sr=sr, mono=True)
