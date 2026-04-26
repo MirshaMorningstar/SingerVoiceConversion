@@ -3,7 +3,7 @@ import os
 import sys   # ⭐ IMPORTANT: lets us use the current venv python
 
 # Absolute path to Seed-VC repo
-SEEDVC_DIR = r"D:\SVC\seed-vc"
+SEEDVC_DIR = r"d:\RagaVoiceStudio\SVC\seed-vc"
 
 def run_seedvc(vocal_path, target_path, workspace, source_gender="Male", target_gender="Male"):
 
